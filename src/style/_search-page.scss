@@ -1,0 +1,30 @@
+.search-page {
+  margin-top: 3vh;
+  form {
+    margin: 0 auto;
+    width: 80%;
+    height: 55px;
+    display: flex;
+    align-items: center;
+    border-radius: 30px;
+
+    input {
+      padding: 0 20px;
+      background: transparent;
+      outline: none;
+      border: none;
+      flex-grow: 1;
+      color: white;
+    }
+    button {
+      background: #ff4343;
+      width: 20%;
+      border-radius: 30px;
+      margin: 5px 0;
+      height: calc(100% - 10px);
+      border: none;
+      outline: none;
+      color: white;
+    }
+  }
+}
