@@ -5,22 +5,19 @@ import { vars } from "../variables.jsx";
 
 const Search = () => {
   const [inputs, setInputs] = React.useState("");
+  const [movies, setMovies] = React.useState([]);
   const handleChange = (event) => {
     const value = event.target.value || "";
-    setInputs((values) => value);
+    setInputs(value);
   };
   const handleSubmit = async (event) => {
     event.preventDefault();
     let data = inputs;
     console.log(`${vars.SearchDataUrl}${data}`);
     try {
-      const response = await axios.get(`${vars.SearchDataUrl}${data}`, {
-        headers: {
-          "Access-Control-Allow-Origin": "*",
-          "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8;",
-        },
-      });
-
+      const response = await axios.post(`${vars.SearchDataUrl}${data}`);
+      console.log(response);
+      setMovies(response.data.pagination.data);
       event.target.reset();
     } catch (e) {
       console.log(e);
@@ -38,8 +35,11 @@ const Search = () => {
         <button value="submit" type="submit">
           ძიება
         </button>
-        <div className="movies"></div>
       </form>
+      <div className="movies">
+        {movies &&
+          movies.map((movie, index) => <Movie data={movie} key={movie.id} />)}
+      </div>
     </section>
   );
 };

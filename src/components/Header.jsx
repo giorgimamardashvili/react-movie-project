@@ -14,7 +14,7 @@ const Header = () => {
       const response = await axios(
         `${vars.WeatherApi}${city}&appid=${vars.apiKey}`
       );
-      console.log(response);
+      console.log(Object.keys(response.data), response.data);
       localStorage.setItem("weather", response.data);
       dispatch({
         type: "SUCCESS",
@@ -48,14 +48,12 @@ const Header = () => {
           <Link to="/search" className="nav-link">
             Search
           </Link>
-          <div>
-            {Object.keys(weather).length > 0 && (
-              <span className="temp">
-                {Math.round(weather.main.temp - 273.15) + "°C"} {weather.name}
-              </span>
-            )}
-          </div>
         </Nav>
+        {Object.keys(weather).length > 0 && (
+          <span className="weather">
+            {Math.round(weather.main.temp - 273.15) + "°C"} {weather.name}
+          </span>
+        )}
       </Container>
     </Navbar>
   );

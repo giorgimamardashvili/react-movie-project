@@ -8,7 +8,6 @@ const Homepage = () => {
   const getMovies = async () => {
     try {
       const response = await axios.get(vars.MoviesDataUrl);
-      console.log(response.data.data);
       setMovies(response.data.data);
     } catch (e) {
       console.log(e);
@@ -16,7 +15,7 @@ const Homepage = () => {
   };
   React.useEffect(() => {
     getMovies();
-  }, []);
+  }, [movies]);
   return (
     <section className="movies container">
       {movies &&

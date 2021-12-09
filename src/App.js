@@ -10,6 +10,7 @@ function App() {
     <div className="App" style={{ background: "#242731", minHeight: "100vh" }}>
       <Header />
       <Routes>
+        <Route path='*' element={<Page404 />} />
         <Route path="/" element={<Homepage />} />
         <Route path="/about" element={<About />} />
         <Route path="/search" element={<Search />} />
