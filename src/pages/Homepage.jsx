@@ -5,14 +5,14 @@ import { Movie } from "../components/Movie.jsx";
 
 const Homepage = () => {
   const [movies, setMovies] = React.useState([]);
-  const getMovies = async () => {
+  const getMovies = React.useCallback(async () => {
     try {
       const response = await axios.get(vars.MoviesDataUrl);
       setMovies(response.data.data);
     } catch (e) {
       console.log(e);
     }
-  };
+  });
   React.useEffect(() => {
     getMovies();
   }, [movies]);
