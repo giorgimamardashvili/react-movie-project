@@ -16,7 +16,7 @@ const Homepage = () => {
   });
   React.useEffect(() => {
     getMovies();
-  }, [movies]);
+  }, []);
   return (
     <section className="movies container">
       {movies &&
