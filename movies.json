@@ -1,0 +1,2861 @@
+{
+    "data": [
+        {
+            "id": 878557407,
+            "adjaraId": 878557407,
+            "primaryName": "",
+            "secondaryName": "Fantastic Beasts: The Secrets of Dumbledore",
+            "tertiaryName": "",
+            "originalName": "",
+            "year": 2022,
+            "releaseDate": "2022-04-15",
+            "imdbUrl": "https://www.imdb.com/title/tt4123432",
+            "isTvShow": false,
+            "budget": "",
+            "income": "",
+            "duration": 0,
+            "adult": false,
+            "parentalControlRate": null,
+            "watchCount": 0,
+            "canBePlayed": true,
+            "regionAllowed": true,
+            "cover": {
+                "small": "",
+                "large": ""
+            },
+            "poster": "",
+            "rating": {
+                "imovies": {
+                    "score": 0,
+                    "voters": 0
+                },
+                "imdb": {
+                    "score": 0,
+                    "voters": 0
+                },
+                "rotten": {
+                    "score": 0,
+                    "voters": null
+                },
+                "metacritic": {
+                    "score": 0,
+                    "voters": null
+                }
+            },
+            "hasSubtitles": false,
+            "languages": {
+                "data": []
+            },
+            "posters": {
+                "data": {
+                    "240": "https://static.imovies.cc/movies/posters/240/407/878557407-e9171c26778fd196a7d86b06d797fa32.jpg",
+                    "blurhash": "c14-|WkX0L~pt7IV00nh?a00Mx?a^%M|R+"
+                }
+            },
+            "covers": {
+                "data": {
+                    "145": "https://static.imovies.cc/movies/covers/145/407/878557407-2bcdfb73b24d3b33582967b8f3486b91.jpg",
+                    "367": "https://static.imovies.cc/movies/covers/367/407/878557407-2bcdfb73b24d3b33582967b8f3486b91.jpg",
+                    "510": "https://static.imovies.cc/movies/covers/510/407/878557407-2bcdfb73b24d3b33582967b8f3486b91.jpg",
+                    "1050": "https://static.imovies.cc/movies/covers/1050/407/878557407-2bcdfb73b24d3b33582967b8f3486b91.jpg",
+                    "1920": "https://static.imovies.cc/movies/covers/1050/407/878557407-2bcdfb73b24d3b33582967b8f3486b91.jpg",
+                    "imageHeight": 591,
+                    "position": "center",
+                    "positionPercentage": "",
+                    "blurhash": "MABX4sNG00$~8wm+%N8^RP?wNIR5xvD$s;"
+                }
+            },
+            "plot": {
+                "data": {
+                    "description": "The third installment of the 'Fantastic Beasts and Where to Find Them' series which follows the adventures of Newt Scamander.",
+                    "language": "ENG"
+                }
+            },
+            "plots": {
+                "data": [
+                    {
+                        "description": "The third installment of the 'Fantastic Beasts and Where to Find Them' series which follows the adventures of Newt Scamander.",
+                        "language": "ENG"
+                    }
+                ]
+            },
+            "genres": {
+                "data": [
+                    {
+                        "id": 261,
+                        "primaryName": "ზღაპრული (ფენტეზი)",
+                        "secondaryName": "Fantasy",
+                        "tertiaryName": "Фэнтези",
+                        "backgroundImage": ""
+                    },
+                    {
+                        "id": 263,
+                        "primaryName": "საოჯახო",
+                        "secondaryName": "Family",
+                        "tertiaryName": "Семейный",
+                        "backgroundImage": "https://static.imovies.cc/genres/263-5da71872982d2.jpg"
+                    },
+                    {
+                        "id": 266,
+                        "primaryName": "სათავგადასავლო",
+                        "secondaryName": "Adventure",
+                        "tertiaryName": "Приключения",
+                        "backgroundImage": "https://static.imovies.cc/genres/266-5da718309d451.jpg"
+                    }
+                ]
+            },
+            "trailers": {
+                "data": [
+                    {
+                        "id": 2349437,
+                        "name": "trailer",
+                        "fileUrl": "https://api.imovies.cc/api/v1/trailers/2349437/files",
+                        "language": "RUS"
+                    },
+                    {
+                        "id": 2349438,
+                        "name": "trailer",
+                        "fileUrl": "https://api.imovies.cc/api/v1/trailers/2349438/files",
+                        "language": "ENG"
+                    }
+                ]
+            },
+            "countries": {
+                "data": [
+                    {
+                        "id": 124,
+                        "primaryName": "დიდი ბრიტანეთი",
+                        "secondaryName": "UK",
+                        "tertiaryName": "Великобритания"
+                    },
+                    {
+                        "id": 125,
+                        "primaryName": "აშშ",
+                        "secondaryName": "USA",
+                        "tertiaryName": "США"
+                    }
+                ]
+            },
+            "userFollows": {
+                "data": {
+                    "status": false
+                }
+            },
+            "userWantsToWatch": {
+                "data": {
+                    "status": false
+                }
+            },
+            "userSubscribed": {
+                "data": {
+                    "status": false
+                }
+            }
+        },
+        {
+            "id": 878557221,
+            "adjaraId": 878557221,
+            "primaryName": "",
+            "secondaryName": "Operation Fortune: Ruse de guerre",
+            "tertiaryName": "Операция «Фортуна»",
+            "originalName": "Operation Fortune: Ruse de guerre",
+            "year": 2022,
+            "releaseDate": "2022-01-21",
+            "imdbUrl": "https://www.imdb.com/title/tt7985704",
+            "isTvShow": false,
+            "budget": "",
+            "income": "",
+            "duration": 0,
+            "adult": false,
+            "parentalControlRate": null,
+            "watchCount": 0,
+            "canBePlayed": true,
+            "regionAllowed": true,
+            "cover": {
+                "small": "",
+                "large": ""
+            },
+            "poster": "",
+            "rating": {
+                "imovies": {
+                    "score": 0,
+                    "voters": 0
+                },
+                "imdb": {
+                    "score": 0,
+                    "voters": 0
+                },
+                "rotten": {
+                    "score": 0,
+                    "voters": null
+                },
+                "metacritic": {
+                    "score": 0,
+                    "voters": null
+                }
+            },
+            "hasSubtitles": false,
+            "languages": {
+                "data": []
+            },
+            "posters": {
+                "data": {
+                    "240": "https://static.imovies.cc/movies/posters/240/221/878557221-b30750043d2bbfff23743f3bce8f119e.jpg",
+                    "blurhash": "c4C~bhIU00^-W;0f00%g0?02M~tlXVVFIp"
+                }
+            },
+            "covers": {
+                "data": {
+                    "145": "https://static.imovies.cc/movies/covers/145/221/878557221-2e61c0f6bc6c8b91cd88aaf7c20f5b41.jpg",
+                    "367": "https://static.imovies.cc/movies/covers/367/221/878557221-2e61c0f6bc6c8b91cd88aaf7c20f5b41.jpg",
+                    "510": "https://static.imovies.cc/movies/covers/510/221/878557221-2e61c0f6bc6c8b91cd88aaf7c20f5b41.jpg",
+                    "1050": "https://static.imovies.cc/movies/covers/1050/221/878557221-2e61c0f6bc6c8b91cd88aaf7c20f5b41.jpg",
+                    "1920": "https://static.imovies.cc/movies/covers/1920/221/878557221-2e61c0f6bc6c8b91cd88aaf7c20f5b41.jpg",
+                    "imageHeight": 1080,
+                    "position": "top",
+                    "positionPercentage": "0",
+                    "blurhash": "MVEork%NM{%1%M_N%MM|kDaz-=xut6W;NG"
+                }
+            },
+            "plot": {
+                "data": {
+                    "description": "MI6 agent Orson Fortune and his team of operatives recruit one of Hollywood's biggest movie stars to help them on an undercover mission when the sale of a deadly new weapons technology threatens to disrupt the world order.Plot summaryAdd synopsis",
+                    "language": "ENG"
+                }
+            },
+            "plots": {
+                "data": [
+                    {
+                        "description": "MI6 agent Orson Fortune and his team of operatives recruit one of Hollywood's biggest movie stars to help them on an undercover mission when the sale of a deadly new weapons technology threatens to disrupt the world order.Plot summaryAdd synopsis",
+                        "language": "ENG"
+                    }
+                ]
+            },
+            "genres": {
+                "data": [
+                    {
+                        "id": 248,
+                        "primaryName": "მძაფრ-სიუჟეტიანი",
+                        "secondaryName": "Action",
+                        "tertiaryName": "Боевик",
+                        "backgroundImage": "https://static.imovies.cc/genres/248-5da7181803087.jpg"
+                    },
+                    {
+                        "id": 250,
+                        "primaryName": "თრილერი",
+                        "secondaryName": "Thriller",
+                        "tertiaryName": "Триллер",
+                        "backgroundImage": ""
+                    },
+                    {
+                        "id": 258,
+                        "primaryName": "კომედია",
+                        "secondaryName": "Comedy",
+                        "tertiaryName": "Комедия",
+                        "backgroundImage": "https://static.imovies.cc/genres/258-5da71db53631b.jpg"
+                    }
+                ]
+            },
+            "trailers": {
+                "data": [
+                    {
+                        "id": 2349381,
+                        "name": "trailer",
+                        "fileUrl": "https://api.imovies.cc/api/v1/trailers/2349381/files",
+                        "language": "ENG"
+                    }
+                ]
+            },
+            "countries": {
+                "data": [
+                    {
+                        "id": 125,
+                        "primaryName": "აშშ",
+                        "secondaryName": "USA",
+                        "tertiaryName": "США"
+                    },
+                    {
+                        "id": 128,
+                        "primaryName": "ჩინეთი",
+                        "secondaryName": "China",
+                        "tertiaryName": "Китай"
+                    }
+                ]
+            },
+            "userFollows": {
+                "data": {
+                    "status": false
+                }
+            },
+            "userWantsToWatch": {
+                "data": {
+                    "status": false
+                }
+            },
+            "userSubscribed": {
+                "data": {
+                    "status": false
+                }
+            }
+        },
+        {
+            "id": 878553918,
+            "adjaraId": 878553918,
+            "primaryName": "",
+            "secondaryName": "Halo",
+            "tertiaryName": "",
+            "originalName": "Halo",
+            "year": 2022,
+            "releaseDate": null,
+            "imdbUrl": "https://www.imdb.com/title/tt2934286",
+            "isTvShow": true,
+            "budget": "",
+            "income": "",
+            "duration": 0,
+            "adult": false,
+            "parentalControlRate": null,
+            "watchCount": 0,
+            "canBePlayed": true,
+            "regionAllowed": true,
+            "cover": {
+                "small": "",
+                "large": ""
+            },
+            "poster": "",
+            "rating": {
+                "imovies": {
+                    "score": 0,
+                    "voters": 0
+                },
+                "imdb": {
+                    "score": 0,
+                    "voters": 0
+                },
+                "rotten": {
+                    "score": 0,
+                    "voters": null
+                },
+                "metacritic": {
+                    "score": 0,
+                    "voters": null
+                }
+            },
+            "hasSubtitles": false,
+            "languages": {
+                "data": []
+            },
+            "posters": {
+                "data": {
+                    "240": "https://static.imovies.cc/movies/posters/240/918/878553918-a8655fb4209006986838dba86add3c3f.jpg",
+                    "blurhash": "c23S02xuj@%Mj[j[00M{a#4nRjWV~qt7f6"
+                }
+            },
+            "covers": {
+                "data": {
+                    "145": "https://static.imovies.cc/movies/covers/145/918/878553918-8915baf2cc483bff84bc44a1b1ec93a6.jpg",
+                    "367": "https://static.imovies.cc/movies/covers/367/918/878553918-8915baf2cc483bff84bc44a1b1ec93a6.jpg",
+                    "510": "https://static.imovies.cc/movies/covers/510/918/878553918-8915baf2cc483bff84bc44a1b1ec93a6.jpg",
+                    "1050": "https://static.imovies.cc/movies/covers/1050/918/878553918-8915baf2cc483bff84bc44a1b1ec93a6.jpg",
+                    "1920": "https://static.imovies.cc/movies/covers/1050/918/878553918-8915baf2cc483bff84bc44a1b1ec93a6.jpg",
+                    "imageHeight": 700,
+                    "position": "center",
+                    "positionPercentage": "",
+                    "blurhash": "M88qgC4n9F_4Dj_ND$IU-;WC00xux]Io-;"
+                }
+            },
+            "plot": {
+                "data": {
+                    "description": "Aliens threaten human existence in an epic 26th-century showdown. TV series based on the video game 'Halo'.",
+                    "language": "ENG"
+                }
+            },
+            "plots": {
+                "data": [
+                    {
+                        "description": "Aliens threaten human existence in an epic 26th-century showdown. TV series based on the video game 'Halo'.",
+                        "language": "ENG"
+                    }
+                ]
+            },
+            "genres": {
+                "data": [
+                    {
+                        "id": 248,
+                        "primaryName": "მძაფრ-სიუჟეტიანი",
+                        "secondaryName": "Action",
+                        "tertiaryName": "Боевик",
+                        "backgroundImage": "https://static.imovies.cc/genres/248-5da7181803087.jpg"
+                    },
+                    {
+                        "id": 257,
+                        "primaryName": "ფანტასტიკა",
+                        "secondaryName": "Sci-Fi",
+                        "tertiaryName": "Фантастика",
+                        "backgroundImage": "https://static.imovies.cc/genres/257-5da71853c4076.jpg"
+                    },
+                    {
+                        "id": 266,
+                        "primaryName": "სათავგადასავლო",
+                        "secondaryName": "Adventure",
+                        "tertiaryName": "Приключения",
+                        "backgroundImage": "https://static.imovies.cc/genres/266-5da718309d451.jpg"
+                    },
+                    {
+                        "id": 275,
+                        "primaryName": "სერიალი",
+                        "secondaryName": "TV Series",
+                        "tertiaryName": "Сериал",
+                        "backgroundImage": ""
+                    }
+                ]
+            },
+            "trailers": {
+                "data": [
+                    {
+                        "id": 2349364,
+                        "name": "trailer",
+                        "fileUrl": "https://api.imovies.cc/api/v1/trailers/2349364/files",
+                        "language": "ENG"
+                    }
+                ]
+            },
+            "countries": {
+                "data": [
+                    {
+                        "id": 125,
+                        "primaryName": "აშშ",
+                        "secondaryName": "USA",
+                        "tertiaryName": "США"
+                    }
+                ]
+            },
+            "userFollows": {
+                "data": {
+                    "status": false
+                }
+            },
+            "userWantsToWatch": {
+                "data": {
+                    "status": false
+                }
+            },
+            "userSubscribed": {
+                "data": {
+                    "status": false
+                }
+            }
+        },
+        {
+            "id": 878556972,
+            "adjaraId": 878556972,
+            "primaryName": "",
+            "secondaryName": "Sonic the Hedgehog 2",
+            "tertiaryName": "Соник 2 в кино",
+            "originalName": "Sonic the Hedgehog 2",
+            "year": 2022,
+            "releaseDate": "2022-04-08",
+            "imdbUrl": "https://www.imdb.com/title/tt12412888",
+            "isTvShow": false,
+            "budget": "",
+            "income": "",
+            "duration": 0,
+            "adult": false,
+            "parentalControlRate": null,
+            "watchCount": 0,
+            "canBePlayed": true,
+            "regionAllowed": true,
+            "cover": {
+                "small": "",
+                "large": ""
+            },
+            "poster": "",
+            "rating": {
+                "imovies": {
+                    "score": 0,
+                    "voters": 0
+                },
+                "imdb": {
+                    "score": 0,
+                    "voters": 0
+                },
+                "rotten": {
+                    "score": 0,
+                    "voters": null
+                },
+                "metacritic": {
+                    "score": 0,
+                    "voters": null
+                }
+            },
+            "hasSubtitles": false,
+            "languages": {
+                "data": []
+            },
+            "posters": {
+                "data": {
+                    "240": "https://static.imovies.cc/movies/posters/240/972/878556972-1a1c819ea615e35587a5584d5077fa1d.jpg",
+                    "blurhash": "cDGHuU3GV[~p0;D-6BN4xBm;IU$fOTIuIp"
+                }
+            },
+            "covers": {
+                "data": {
+                    "145": "https://static.imovies.cc/movies/covers/145/972/878556972-e2e28ac280057cedc9c1330a45ebfa42.jpg",
+                    "367": "https://static.imovies.cc/movies/covers/367/972/878556972-e2e28ac280057cedc9c1330a45ebfa42.jpg",
+                    "510": "https://static.imovies.cc/movies/covers/510/972/878556972-e2e28ac280057cedc9c1330a45ebfa42.jpg",
+                    "1050": "https://static.imovies.cc/movies/covers/1050/972/878556972-e2e28ac280057cedc9c1330a45ebfa42.jpg",
+                    "1920": "https://static.imovies.cc/movies/covers/1920/972/878556972-e2e28ac280057cedc9c1330a45ebfa42.jpg",
+                    "imageHeight": 1079,
+                    "position": "center",
+                    "positionPercentage": "27.7",
+                    "blurhash": "MFHUUu0uNFwF.0t-0P-PRj%eS6xVwaM{M|"
+                }
+            },
+            "plot": {
+                "data": {
+                    "description": "After settling in Green Hills, Sonic is ready for more freedom, and Tom and Maddie agree to leave him home while they go on vacation. But, no sooner are they gone, when Dr. Robotnik comes back, this time with a new partner, Knuckles, in search for an emerald that has the power to both build and destroy civilizations. Sonic teams up with his own sidekick, Tails, and together they embark on a journey to find the emerald before it falls into the wrong hands. Being directed by Jeff Fowler, and starring Jim Carrey, James Marsden, and Ben Schwartz.",
+                    "language": "ENG"
+                }
+            },
+            "plots": {
+                "data": [
+                    {
+                        "description": "After settling in Green Hills, Sonic is ready for more freedom, and Tom and Maddie agree to leave him home while they go on vacation. But, no sooner are they gone, when Dr. Robotnik comes back, this time with a new partner, Knuckles, in search for an emerald that has the power to both build and destroy civilizations. Sonic teams up with his own sidekick, Tails, and together they embark on a journey to find the emerald before it falls into the wrong hands. Being directed by Jeff Fowler, and starring Jim Carrey, James Marsden, and Ben Schwartz.",
+                        "language": "ENG"
+                    }
+                ]
+            },
+            "genres": {
+                "data": [
+                    {
+                        "id": 248,
+                        "primaryName": "მძაფრ-სიუჟეტიანი",
+                        "secondaryName": "Action",
+                        "tertiaryName": "Боевик",
+                        "backgroundImage": "https://static.imovies.cc/genres/248-5da7181803087.jpg"
+                    },
+                    {
+                        "id": 258,
+                        "primaryName": "კომედია",
+                        "secondaryName": "Comedy",
+                        "tertiaryName": "Комедия",
+                        "backgroundImage": "https://static.imovies.cc/genres/258-5da71db53631b.jpg"
+                    },
+                    {
+                        "id": 266,
+                        "primaryName": "სათავგადასავლო",
+                        "secondaryName": "Adventure",
+                        "tertiaryName": "Приключения",
+                        "backgroundImage": "https://static.imovies.cc/genres/266-5da718309d451.jpg"
+                    }
+                ]
+            },
+            "trailers": {
+                "data": [
+                    {
+                        "id": 2349363,
+                        "name": "trailer",
+                        "fileUrl": "https://api.imovies.cc/api/v1/trailers/2349363/files",
+                        "language": "ENG"
+                    }
+                ]
+            },
+            "countries": {
+                "data": [
+                    {
+                        "id": 125,
+                        "primaryName": "აშშ",
+                        "secondaryName": "USA",
+                        "tertiaryName": "США"
+                    },
+                    {
+                        "id": 126,
+                        "primaryName": "კანადა",
+                        "secondaryName": "Canada",
+                        "tertiaryName": "Канада"
+                    }
+                ]
+            },
+            "userFollows": {
+                "data": {
+                    "status": false
+                }
+            },
+            "userWantsToWatch": {
+                "data": {
+                    "status": false
+                }
+            },
+            "userSubscribed": {
+                "data": {
+                    "status": false
+                }
+            }
+        },
+        {
+            "id": 878526327,
+            "adjaraId": 878526327,
+            "primaryName": "სასტუმრო ტრანსილვანია: ტრანსფორმანია",
+            "secondaryName": "Hotel Transylvania: Transformania",
+            "tertiaryName": "Монстры на каникулах: Трансформания",
+            "originalName": "Hotel Transylvania: Transformania",
+            "year": 2022,
+            "releaseDate": "2022-01-14",
+            "imdbUrl": "https://www.imdb.com/title/tt9848626",
+            "isTvShow": false,
+            "budget": "",
+            "income": "",
+            "duration": 0,
+            "adult": false,
+            "parentalControlRate": "pg",
+            "watchCount": 0,
+            "canBePlayed": false,
+            "regionAllowed": true,
+            "cover": {
+                "small": "",
+                "large": ""
+            },
+            "poster": "",
+            "rating": {
+                "imovies": {
+                    "score": 5,
+                    "voters": 1
+                },
+                "imdb": {
+                    "score": 6.9,
+                    "voters": 275
+                },
+                "rotten": {
+                    "score": 0,
+                    "voters": null
+                },
+                "metacritic": {
+                    "score": 0,
+                    "voters": null
+                }
+            },
+            "hasSubtitles": false,
+            "languages": {
+                "data": []
+            },
+            "posters": {
+                "data": {
+                    "240": "https://static.imovies.cc/movies/posters/240/327/878526327-d44bf3c636da568b3298e45512d170eb.jpg",
+                    "blurhash": "c66Z-Jj]EK$-juS10vax-D5NaxxH}vj[I:"
+                }
+            },
+            "covers": {
+                "data": {
+                    "145": "https://static.imovies.cc/movies/covers/145/327/878526327-1d6a7d1335615851155c2234bb7f6e75.jpg",
+                    "367": "https://static.imovies.cc/movies/covers/367/327/878526327-1d6a7d1335615851155c2234bb7f6e75.jpg",
+                    "510": "https://static.imovies.cc/movies/covers/510/327/878526327-1d6a7d1335615851155c2234bb7f6e75.jpg",
+                    "1050": "https://static.imovies.cc/movies/covers/1050/327/878526327-1d6a7d1335615851155c2234bb7f6e75.jpg",
+                    "1920": "https://static.imovies.cc/movies/covers/1050/327/878526327-1d6a7d1335615851155c2234bb7f6e75.jpg",
+                    "imageHeight": 591,
+                    "position": "center",
+                    "positionPercentage": "33.8",
+                    "blurhash": "M48yiQj^0cjW5MNOjvs:WToI00aw}]W?=$"
+                }
+            },
+            "plot": {
+                "data": {
+                    "description": "პოპულარული ანიმაციური კომედიური ფრენჩაიზის “სასტუმრო ტრანსილვანია 3: ზაფხულის არდადეგები“ მეოთხე და დასკვნითი ნაწილი, სასტუმროს მფლობელი გრაფი დრაკულასა და მისი საყვარელი მონსტრების ოჯახის ახალი თავგადასავლების შესახებ, რომლის ბნელ ციხე-სასტუმროში მონსტრები ცივილიზაციისგან და ადამიანის თვალისგან შორს ისვენებენ, სადაც ყველაფერი თავდაყირა დადგება, როდესაც ლეგენდარული პროფესორის აბრაამ ვან ჰელისგინის იდუმალი გამოგონება, “მონსტრიფიცირების სხივი” გაფუჭდება და შემთხვევით დრაკულას და მის მეგობრებს ადამიანებად, ხოლო ჯონის – პირიქით, მონსტრად გადააქცევს.",
+                    "language": "GEO"
+                }
+            },
+            "plots": {
+                "data": [
+                    {
+                        "description": "პოპულარული ანიმაციური კომედიური ფრენჩაიზის “სასტუმრო ტრანსილვანია 3: ზაფხულის არდადეგები“ მეოთხე და დასკვნითი ნაწილი, სასტუმროს მფლობელი გრაფი დრაკულასა და მისი საყვარელი მონსტრების ოჯახის ახალი თავგადასავლების შესახებ, რომლის ბნელ ციხე-სასტუმროში მონსტრები ცივილიზაციისგან და ადამიანის თვალისგან შორს ისვენებენ, სადაც ყველაფერი თავდაყირა დადგება, როდესაც ლეგენდარული პროფესორის აბრაამ ვან ჰელისგინის იდუმალი გამოგონება, “მონსტრიფიცირების სხივი” გაფუჭდება და შემთხვევით დრაკულას და მის მეგობრებს ადამიანებად, ხოლო ჯონის – პირიქით, მონსტრად გადააქცევს.",
+                        "language": "GEO"
+                    }
+                ]
+            },
+            "genres": {
+                "data": [
+                    {
+                        "id": 255,
+                        "primaryName": "საშინელებათა ფილმი",
+                        "secondaryName": "Horror",
+                        "tertiaryName": "Ужас",
+                        "backgroundImage": "https://static.imovies.cc/genres/255-5da718915ef4d.jpg"
+                    },
+                    {
+                        "id": 258,
+                        "primaryName": "კომედია",
+                        "secondaryName": "Comedy",
+                        "tertiaryName": "Комедия",
+                        "backgroundImage": "https://static.imovies.cc/genres/258-5da71db53631b.jpg"
+                    },
+                    {
+                        "id": 261,
+                        "primaryName": "ზღაპრული (ფენტეზი)",
+                        "secondaryName": "Fantasy",
+                        "tertiaryName": "Фэнтези",
+                        "backgroundImage": ""
+                    },
+                    {
+                        "id": 263,
+                        "primaryName": "საოჯახო",
+                        "secondaryName": "Family",
+                        "tertiaryName": "Семейный",
+                        "backgroundImage": "https://static.imovies.cc/genres/263-5da71872982d2.jpg"
+                    },
+                    {
+                        "id": 265,
+                        "primaryName": "ანიმაციური",
+                        "secondaryName": "Animation",
+                        "tertiaryName": "Анимация",
+                        "backgroundImage": "https://static.imovies.cc/genres/265-5e8b303691e38.jpg"
+                    },
+                    {
+                        "id": 266,
+                        "primaryName": "სათავგადასავლო",
+                        "secondaryName": "Adventure",
+                        "tertiaryName": "Приключения",
+                        "backgroundImage": "https://static.imovies.cc/genres/266-5da718309d451.jpg"
+                    }
+                ]
+            },
+            "trailers": {
+                "data": [
+                    {
+                        "id": 2349334,
+                        "name": "trailer",
+                        "fileUrl": "https://api.imovies.cc/api/v1/trailers/2349334/files",
+                        "language": "ENG"
+                    }
+                ]
+            },
+            "countries": {
+                "data": [
+                    {
+                        "id": 125,
+                        "primaryName": "აშშ",
+                        "secondaryName": "USA",
+                        "tertiaryName": "США"
+                    }
+                ]
+            },
+            "userFollows": {
+                "data": {
+                    "status": false
+                }
+            },
+            "userWantsToWatch": {
+                "data": {
+                    "status": false
+                }
+            },
+            "userSubscribed": {
+                "data": {
+                    "status": false
+                }
+            }
+        },
+        {
+            "id": 878541084,
+            "adjaraId": 878541084,
+            "primaryName": "",
+            "secondaryName": "The Matrix Resurrections",
+            "tertiaryName": "Матрица: Воскрешение",
+            "originalName": "The Matrix Resurrections",
+            "year": 2021,
+            "releaseDate": "2021-12-22",
+            "imdbUrl": "https://www.imdb.com/title/tt10838180",
+            "isTvShow": false,
+            "budget": "",
+            "income": "",
+            "duration": 148,
+            "adult": false,
+            "parentalControlRate": "r",
+            "watchCount": 0,
+            "canBePlayed": true,
+            "regionAllowed": true,
+            "cover": {
+                "small": "",
+                "large": ""
+            },
+            "poster": "",
+            "rating": {
+                "imovies": {
+                    "score": 5,
+                    "voters": 2
+                },
+                "imdb": {
+                    "score": 0,
+                    "voters": 0
+                },
+                "rotten": {
+                    "score": 0,
+                    "voters": null
+                },
+                "metacritic": {
+                    "score": 0,
+                    "voters": null
+                }
+            },
+            "hasSubtitles": false,
+            "languages": {
+                "data": []
+            },
+            "posters": {
+                "data": {
+                    "240": "https://static.imovies.cc/movies/posters/240/84/878541084-88d37a5048e3fddf72eeb43c4c8c3967.jpg",
+                    "blurhash": "c9A-9W_M9GMyIUMy00M{s:%z%fxu-;IVf*"
+                }
+            },
+            "covers": {
+                "data": {
+                    "145": "https://static.imovies.cc/movies/covers/145/84/878541084-0de7087cc0ac834ee18cab8144ce8f72.jpg",
+                    "367": "https://static.imovies.cc/movies/covers/367/84/878541084-0de7087cc0ac834ee18cab8144ce8f72.jpg",
+                    "510": "https://static.imovies.cc/movies/covers/510/84/878541084-0de7087cc0ac834ee18cab8144ce8f72.jpg",
+                    "1050": "https://static.imovies.cc/movies/covers/1050/84/878541084-0de7087cc0ac834ee18cab8144ce8f72.jpg",
+                    "1920": "https://static.imovies.cc/movies/covers/1050/84/878541084-0de7087cc0ac834ee18cab8144ce8f72.jpg",
+                    "imageHeight": 590,
+                    "position": "center",
+                    "positionPercentage": "27.7",
+                    "blurhash": "Mt4=j.k?b_oznNp{pIkWkCniXTf,jEaebI"
+                }
+            },
+            "plot": {
+                "data": {
+                    "description": "The plot is currently unknown.",
+                    "language": "ENG"
+                }
+            },
+            "plots": {
+                "data": [
+                    {
+                        "description": "The plot is currently unknown.",
+                        "language": "ENG"
+                    }
+                ]
+            },
+            "genres": {
+                "data": [
+                    {
+                        "id": 248,
+                        "primaryName": "მძაფრ-სიუჟეტიანი",
+                        "secondaryName": "Action",
+                        "tertiaryName": "Боевик",
+                        "backgroundImage": "https://static.imovies.cc/genres/248-5da7181803087.jpg"
+                    },
+                    {
+                        "id": 257,
+                        "primaryName": "ფანტასტიკა",
+                        "secondaryName": "Sci-Fi",
+                        "tertiaryName": "Фантастика",
+                        "backgroundImage": "https://static.imovies.cc/genres/257-5da71853c4076.jpg"
+                    }
+                ]
+            },
+            "trailers": {
+                "data": [
+                    {
+                        "id": 2349312,
+                        "name": "trailer",
+                        "fileUrl": "https://api.imovies.cc/api/v1/trailers/2349312/files",
+                        "language": "ENG"
+                    }
+                ]
+            },
+            "countries": {
+                "data": [
+                    {
+                        "id": 125,
+                        "primaryName": "აშშ",
+                        "secondaryName": "USA",
+                        "tertiaryName": "США"
+                    }
+                ]
+            },
+            "userFollows": {
+                "data": {
+                    "status": false
+                }
+            },
+            "userWantsToWatch": {
+                "data": {
+                    "status": false
+                }
+            },
+            "userSubscribed": {
+                "data": {
+                    "status": false
+                }
+            }
+        },
+        {
+            "id": 878556362,
+            "adjaraId": 878556362,
+            "primaryName": "",
+            "secondaryName": "Spider-Man: Across the Spider-Verse - Part One",
+            "tertiaryName": "Человек-паук: Через вселенные 2",
+            "originalName": "Spider-Man: Across the Spider-Verse - Part One",
+            "year": 2022,
+            "releaseDate": "2022-10-07",
+            "imdbUrl": "https://www.imdb.com/title/tt9362722",
+            "isTvShow": false,
+            "budget": "$150,000,000",
+            "income": "",
+            "duration": 0,
+            "adult": false,
+            "parentalControlRate": null,
+            "watchCount": 0,
+            "canBePlayed": true,
+            "regionAllowed": true,
+            "cover": {
+                "small": "",
+                "large": ""
+            },
+            "poster": "",
+            "rating": {
+                "imovies": {
+                    "score": 0,
+                    "voters": 0
+                },
+                "imdb": {
+                    "score": 0,
+                    "voters": 0
+                },
+                "rotten": {
+                    "score": 0,
+                    "voters": null
+                },
+                "metacritic": {
+                    "score": 0,
+                    "voters": null
+                }
+            },
+            "hasSubtitles": false,
+            "languages": {
+                "data": []
+            },
+            "posters": {
+                "data": {
+                    "240": "https://static.imovies.cc/movies/posters/240/362/878556362-69443c65d45de653cbcb3fea79fc9b3c.jpg",
+                    "blurhash": "c65XDva$EJsEj[oM0vj?-XJ}axR%^nayIm"
+                }
+            },
+            "covers": {
+                "data": {
+                    "145": "https://static.imovies.cc/movies/covers/145/362/878556362-23ed67be30dd878bf85f4cf7264fdb3d.jpg",
+                    "367": "https://static.imovies.cc/movies/covers/367/362/878556362-23ed67be30dd878bf85f4cf7264fdb3d.jpg",
+                    "510": "https://static.imovies.cc/movies/covers/510/362/878556362-23ed67be30dd878bf85f4cf7264fdb3d.jpg",
+                    "1050": "https://static.imovies.cc/movies/covers/1050/362/878556362-23ed67be30dd878bf85f4cf7264fdb3d.jpg",
+                    "1920": "https://static.imovies.cc/movies/covers/1050/362/878556362-23ed67be30dd878bf85f4cf7264fdb3d.jpg",
+                    "imageHeight": 591,
+                    "position": "top",
+                    "positionPercentage": "0",
+                    "blurhash": "MCFX4TN5;w9mJH0[5l-PR~J7D%kF9^^G^O"
+                }
+            },
+            "plot": {
+                "data": {
+                    "description": "Plot unknown. Sequel to the 2018 film 'Spider-Man: Into the Spider-Verse'.",
+                    "language": "ENG"
+                }
+            },
+            "plots": {
+                "data": [
+                    {
+                        "description": "Plot unknown. Sequel to the 2018 film 'Spider-Man: Into the Spider-Verse'.",
+                        "language": "ENG"
+                    }
+                ]
+            },
+            "genres": {
+                "data": [
+                    {
+                        "id": 248,
+                        "primaryName": "მძაფრ-სიუჟეტიანი",
+                        "secondaryName": "Action",
+                        "tertiaryName": "Боевик",
+                        "backgroundImage": "https://static.imovies.cc/genres/248-5da7181803087.jpg"
+                    },
+                    {
+                        "id": 265,
+                        "primaryName": "ანიმაციური",
+                        "secondaryName": "Animation",
+                        "tertiaryName": "Анимация",
+                        "backgroundImage": "https://static.imovies.cc/genres/265-5e8b303691e38.jpg"
+                    },
+                    {
+                        "id": 266,
+                        "primaryName": "სათავგადასავლო",
+                        "secondaryName": "Adventure",
+                        "tertiaryName": "Приключения",
+                        "backgroundImage": "https://static.imovies.cc/genres/266-5da718309d451.jpg"
+                    }
+                ]
+            },
+            "trailers": {
+                "data": [
+                    {
+                        "id": 2349287,
+                        "name": "trailer",
+                        "fileUrl": "https://api.imovies.cc/api/v1/trailers/2349287/files",
+                        "language": "RUS"
+                    },
+                    {
+                        "id": 2349286,
+                        "name": "trailer",
+                        "fileUrl": "https://api.imovies.cc/api/v1/trailers/2349286/files",
+                        "language": "ENG"
+                    }
+                ]
+            },
+            "countries": {
+                "data": [
+                    {
+                        "id": 125,
+                        "primaryName": "აშშ",
+                        "secondaryName": "USA",
+                        "tertiaryName": "США"
+                    },
+                    {
+                        "id": 126,
+                        "primaryName": "კანადა",
+                        "secondaryName": "Canada",
+                        "tertiaryName": "Канада"
+                    }
+                ]
+            },
+            "userFollows": {
+                "data": {
+                    "status": false
+                }
+            },
+            "userWantsToWatch": {
+                "data": {
+                    "status": false
+                }
+            },
+            "userSubscribed": {
+                "data": {
+                    "status": false
+                }
+            }
+        },
+        {
+            "id": 878554245,
+            "adjaraId": 878554245,
+            "primaryName": "",
+            "secondaryName": "The Outfit",
+            "tertiaryName": "",
+            "originalName": "The Outfit",
+            "year": 2022,
+            "releaseDate": "2022-02-25",
+            "imdbUrl": "https://www.imdb.com/title/tt14114802",
+            "isTvShow": false,
+            "budget": "",
+            "income": "",
+            "duration": 0,
+            "adult": false,
+            "parentalControlRate": null,
+            "watchCount": 0,
+            "canBePlayed": true,
+            "regionAllowed": true,
+            "cover": {
+                "small": "",
+                "large": ""
+            },
+            "poster": "",
+            "rating": {
+                "imovies": {
+                    "score": 0,
+                    "voters": 0
+                },
+                "imdb": {
+                    "score": 0,
+                    "voters": 0
+                },
+                "rotten": {
+                    "score": 0,
+                    "voters": null
+                },
+                "metacritic": {
+                    "score": 0,
+                    "voters": null
+                }
+            },
+            "hasSubtitles": false,
+            "languages": {
+                "data": []
+            },
+            "posters": {
+                "data": {
+                    "240": "https://static.imovies.cc/movies/posters/240/245/878554245-0f286573c62791ba0b02e6f4d100412d.jpg",
+                    "blurhash": "cAH,kfNe~ou.s.Eg.8R*EMx-o2od%~oeni"
+                }
+            },
+            "covers": {
+                "data": {
+                    "145": "https://static.imovies.cc/movies/covers/145/245/878554245-30401fc90dc6c9a5f84592c573242d99.jpg",
+                    "367": "https://static.imovies.cc/movies/covers/367/245/878554245-30401fc90dc6c9a5f84592c573242d99.jpg",
+                    "510": "https://static.imovies.cc/movies/covers/510/245/878554245-30401fc90dc6c9a5f84592c573242d99.jpg",
+                    "1050": "https://static.imovies.cc/movies/covers/510/245/878554245-30401fc90dc6c9a5f84592c573242d99.jpg",
+                    "1920": "https://static.imovies.cc/movies/covers/510/245/878554245-30401fc90dc6c9a5f84592c573242d99.jpg",
+                    "imageHeight": 287,
+                    "position": "center",
+                    "positionPercentage": "",
+                    "blurhash": "MIAJAuxEIpj[NH~A$%Ipj[R*?F-UIpR+ay"
+                }
+            },
+            "plot": {
+                "data": {
+                    "description": "The film follows Leonard, an English tailor who used to craft suits on London's world-famous Savile Row. But after a personal tragedy, he's ended up in Chicago, operating a small tailor shop in a rough part of town where he makes beautiful clothes for the only people around who can afford them: a family of vicious gangsters.Plot summaryAdd synopsis",
+                    "language": "ENG"
+                }
+            },
+            "plots": {
+                "data": [
+                    {
+                        "description": "The film follows Leonard, an English tailor who used to craft suits on London's world-famous Savile Row. But after a personal tragedy, he's ended up in Chicago, operating a small tailor shop in a rough part of town where he makes beautiful clothes for the only people around who can afford them: a family of vicious gangsters.Plot summaryAdd synopsis",
+                        "language": "ENG"
+                    }
+                ]
+            },
+            "genres": {
+                "data": [
+                    {
+                        "id": 249,
+                        "primaryName": "დრამა",
+                        "secondaryName": "Drama",
+                        "tertiaryName": "Драма",
+                        "backgroundImage": ""
+                    },
+                    {
+                        "id": 259,
+                        "primaryName": "დეტექტივი",
+                        "secondaryName": "Crime",
+                        "tertiaryName": "Криминал",
+                        "backgroundImage": "https://static.imovies.cc/genres/259-5da717570d695.jpg"
+                    }
+                ]
+            },
+            "trailers": {
+                "data": [
+                    {
+                        "id": 2349025,
+                        "name": "trailer",
+                        "fileUrl": "https://api.imovies.cc/api/v1/trailers/2349025/files",
+                        "language": "ENG"
+                    }
+                ]
+            },
+            "countries": {
+                "data": [
+                    {
+                        "id": 125,
+                        "primaryName": "აშშ",
+                        "secondaryName": "USA",
+                        "tertiaryName": "США"
+                    }
+                ]
+            },
+            "userFollows": {
+                "data": {
+                    "status": false
+                }
+            },
+            "userWantsToWatch": {
+                "data": {
+                    "status": false
+                }
+            },
+            "userSubscribed": {
+                "data": {
+                    "status": false
+                }
+            }
+        },
+        {
+            "id": 878554244,
+            "adjaraId": 878554244,
+            "primaryName": "",
+            "secondaryName": "Dog",
+            "tertiaryName": "Собака",
+            "originalName": "Dog",
+            "year": 2022,
+            "releaseDate": "2022-02-18",
+            "imdbUrl": "https://www.imdb.com/title/tt11252248",
+            "isTvShow": false,
+            "budget": "",
+            "income": "",
+            "duration": 90,
+            "adult": false,
+            "parentalControlRate": "pg-13",
+            "watchCount": 0,
+            "canBePlayed": true,
+            "regionAllowed": true,
+            "cover": {
+                "small": "",
+                "large": ""
+            },
+            "poster": "",
+            "rating": {
+                "imovies": {
+                    "score": 0,
+                    "voters": 0
+                },
+                "imdb": {
+                    "score": 0,
+                    "voters": 0
+                },
+                "rotten": {
+                    "score": 0,
+                    "voters": null
+                },
+                "metacritic": {
+                    "score": 0,
+                    "voters": null
+                }
+            },
+            "hasSubtitles": false,
+            "languages": {
+                "data": []
+            },
+            "posters": {
+                "data": {
+                    "240": "https://static.imovies.cc/movies/posters/240/244/878554244-bae14b63880678f812a6537280831e15.jpg",
+                    "blurhash": "cVEyJJxwx].T%fkDXnxtRkxqIXi_9vV?RP"
+                }
+            },
+            "covers": {
+                "data": {
+                    "145": "https://static.imovies.cc/movies/covers/145/244/878554244-3752d54d786e1b6f525be113b5123a01.jpg",
+                    "367": "https://static.imovies.cc/movies/covers/367/244/878554244-3752d54d786e1b6f525be113b5123a01.jpg",
+                    "510": "https://static.imovies.cc/movies/covers/510/244/878554244-3752d54d786e1b6f525be113b5123a01.jpg",
+                    "1050": "https://static.imovies.cc/movies/covers/1050/244/878554244-3752d54d786e1b6f525be113b5123a01.jpg",
+                    "1920": "https://static.imovies.cc/movies/covers/1050/244/878554244-3752d54d786e1b6f525be113b5123a01.jpg",
+                    "imageHeight": 591,
+                    "position": "top",
+                    "positionPercentage": "0",
+                    "blurhash": "MpGl3U-payjZkC~qxuofj[j[-qWBWBWBj@"
+                }
+            },
+            "plot": {
+                "data": {
+                    "description": "Briggs who, alongside his companion Lulu, a Belgian Malinois haul ass down the Pacific Coast in time to catch their best friend's and handler's funeral. One of them has a week to live, the other lives like every day is his last.",
+                    "language": "ENG"
+                }
+            },
+            "plots": {
+                "data": [
+                    {
+                        "description": "Briggs who, alongside his companion Lulu, a Belgian Malinois haul ass down the Pacific Coast in time to catch their best friend's and handler's funeral. One of them has a week to live, the other lives like every day is his last.",
+                        "language": "ENG"
+                    }
+                ]
+            },
+            "genres": {
+                "data": [
+                    {
+                        "id": 248,
+                        "primaryName": "მძაფრ-სიუჟეტიანი",
+                        "secondaryName": "Action",
+                        "tertiaryName": "Боевик",
+                        "backgroundImage": "https://static.imovies.cc/genres/248-5da7181803087.jpg"
+                    },
+                    {
+                        "id": 258,
+                        "primaryName": "კომედია",
+                        "secondaryName": "Comedy",
+                        "tertiaryName": "Комедия",
+                        "backgroundImage": "https://static.imovies.cc/genres/258-5da71db53631b.jpg"
+                    },
+                    {
+                        "id": 265,
+                        "primaryName": "ანიმაციური",
+                        "secondaryName": "Animation",
+                        "tertiaryName": "Анимация",
+                        "backgroundImage": "https://static.imovies.cc/genres/265-5e8b303691e38.jpg"
+                    }
+                ]
+            },
+            "trailers": {
+                "data": [
+                    {
+                        "id": 2349024,
+                        "name": "trailer",
+                        "fileUrl": "https://api.imovies.cc/api/v1/trailers/2349024/files",
+                        "language": "ENG"
+                    }
+                ]
+            },
+            "countries": {
+                "data": [
+                    {
+                        "id": 125,
+                        "primaryName": "აშშ",
+                        "secondaryName": "USA",
+                        "tertiaryName": "США"
+                    },
+                    {
+                        "id": 135,
+                        "primaryName": "იტალია",
+                        "secondaryName": "Italy",
+                        "tertiaryName": "Италия"
+                    }
+                ]
+            },
+            "userFollows": {
+                "data": {
+                    "status": false
+                }
+            },
+            "userWantsToWatch": {
+                "data": {
+                    "status": false
+                }
+            },
+            "userSubscribed": {
+                "data": {
+                    "status": false
+                }
+            }
+        },
+        {
+            "id": 878535566,
+            "adjaraId": 878535566,
+            "primaryName": "გაწითლება",
+            "secondaryName": "Turning Red",
+            "tertiaryName": "Я краснею",
+            "originalName": "Turning Red",
+            "year": 2022,
+            "releaseDate": "2022-03-11",
+            "imdbUrl": "https://www.imdb.com/title/tt8097030",
+            "isTvShow": false,
+            "budget": "",
+            "income": "",
+            "duration": 0,
+            "adult": false,
+            "parentalControlRate": "pg",
+            "watchCount": 0,
+            "canBePlayed": true,
+            "regionAllowed": true,
+            "cover": {
+                "small": "",
+                "large": ""
+            },
+            "poster": "",
+            "rating": {
+                "imovies": {
+                    "score": 0,
+                    "voters": 0
+                },
+                "imdb": {
+                    "score": 0,
+                    "voters": 0
+                },
+                "rotten": {
+                    "score": 0,
+                    "voters": null
+                },
+                "metacritic": {
+                    "score": 0,
+                    "voters": null
+                }
+            },
+            "hasSubtitles": false,
+            "languages": {
+                "data": []
+            },
+            "posters": {
+                "data": {
+                    "240": "https://static.imovies.cc/movies/posters/240/566/878535566-5c7efd5b3ce0cdc075242a4a6e90be5b.jpg",
+                    "blurhash": "cvJr{vaeOE}@s:t7%LWBt7SMj[X8I;j[bb"
+                }
+            },
+            "covers": {
+                "data": {
+                    "145": "https://static.imovies.cc/movies/covers/145/566/878535566-c46a98056495697865fe7d83b8ad1d02.jpg",
+                    "367": "https://static.imovies.cc/movies/covers/367/566/878535566-c46a98056495697865fe7d83b8ad1d02.jpg",
+                    "510": "https://static.imovies.cc/movies/covers/510/566/878535566-c46a98056495697865fe7d83b8ad1d02.jpg",
+                    "1050": "https://static.imovies.cc/movies/covers/1050/566/878535566-c46a98056495697865fe7d83b8ad1d02.jpg",
+                    "1920": "https://static.imovies.cc/movies/covers/1920/566/878535566-c46a98056495697865fe7d83b8ad1d02.jpg",
+                    "imageHeight": 1080,
+                    "position": "center",
+                    "positionPercentage": "",
+                    "blurhash": "MHHAYC.l1HPWO?~px@E1AvxGOsozs:ohn+"
+                }
+            },
+            "plot": {
+                "data": {
+                    "description": "ანიმაციური კომედია, 13 წლის მეი ლის შესახებ, რომელიც მის პრობლემებსა და  მოსიყვარულე დედის ქალიშვილს შორის ორად იხლიჩება. მაგრამ საკუთარ სხეულში, ინტერესებსა და ურთიერთობებში ცვლილებების გარდა, მეი ლი კიდევ ერთი ძალიან უცნაური თვისების წინაშე აღმოჩნდება. ყოველთვის, როდესაც იგი ძალიან ღელავს, მაშინვე გიგანტურ წითელ პანდაად იქცევა.",
+                    "language": "GEO"
+                }
+            },
+            "plots": {
+                "data": [
+                    {
+                        "description": "ანიმაციური კომედია, 13 წლის მეი ლის შესახებ, რომელიც მის პრობლემებსა და  მოსიყვარულე დედის ქალიშვილს შორის ორად იხლიჩება. მაგრამ საკუთარ სხეულში, ინტერესებსა და ურთიერთობებში ცვლილებების გარდა, მეი ლი კიდევ ერთი ძალიან უცნაური თვისების წინაშე აღმოჩნდება. ყოველთვის, როდესაც იგი ძალიან ღელავს, მაშინვე გიგანტურ წითელ პანდაად იქცევა.",
+                        "language": "GEO"
+                    }
+                ]
+            },
+            "genres": {
+                "data": [
+                    {
+                        "id": 258,
+                        "primaryName": "კომედია",
+                        "secondaryName": "Comedy",
+                        "tertiaryName": "Комедия",
+                        "backgroundImage": "https://static.imovies.cc/genres/258-5da71db53631b.jpg"
+                    },
+                    {
+                        "id": 265,
+                        "primaryName": "ანიმაციური",
+                        "secondaryName": "Animation",
+                        "tertiaryName": "Анимация",
+                        "backgroundImage": "https://static.imovies.cc/genres/265-5e8b303691e38.jpg"
+                    },
+                    {
+                        "id": 266,
+                        "primaryName": "სათავგადასავლო",
+                        "secondaryName": "Adventure",
+                        "tertiaryName": "Приключения",
+                        "backgroundImage": "https://static.imovies.cc/genres/266-5da718309d451.jpg"
+                    }
+                ]
+            },
+            "trailers": {
+                "data": [
+                    {
+                        "id": 2349023,
+                        "name": "trailer",
+                        "fileUrl": "https://api.imovies.cc/api/v1/trailers/2349023/files",
+                        "language": "ENG"
+                    }
+                ]
+            },
+            "countries": {
+                "data": []
+            },
+            "userFollows": {
+                "data": {
+                    "status": false
+                }
+            },
+            "userWantsToWatch": {
+                "data": {
+                    "status": false
+                }
+            },
+            "userSubscribed": {
+                "data": {
+                    "status": false
+                }
+            }
+        },
+        {
+            "id": 878545113,
+            "adjaraId": 878545113,
+            "primaryName": "",
+            "secondaryName": "American Underdog",
+            "tertiaryName": "",
+            "originalName": "American Underdog",
+            "year": 2021,
+            "releaseDate": "2021-12-25",
+            "imdbUrl": "https://www.imdb.com/title/tt11729298",
+            "isTvShow": false,
+            "budget": "",
+            "income": "",
+            "duration": 0,
+            "adult": false,
+            "parentalControlRate": "pg",
+            "watchCount": 0,
+            "canBePlayed": true,
+            "regionAllowed": true,
+            "cover": {
+                "small": "",
+                "large": ""
+            },
+            "poster": "",
+            "rating": {
+                "imovies": {
+                    "score": 0,
+                    "voters": 0
+                },
+                "imdb": {
+                    "score": 0,
+                    "voters": 0
+                },
+                "rotten": {
+                    "score": 0,
+                    "voters": null
+                },
+                "metacritic": {
+                    "score": 0,
+                    "voters": null
+                }
+            },
+            "hasSubtitles": false,
+            "languages": {
+                "data": []
+            },
+            "posters": {
+                "data": {
+                    "240": "https://static.imovies.cc/movies/posters/240/113/878545113-b0cfb9bc6664beb007c5faa099ca6891.jpg",
+                    "blurhash": "cFA]~Sj]Em~poztSpKt7?G-qoL-p?HoM%L"
+                }
+            },
+            "covers": {
+                "data": {
+                    "145": "https://static.imovies.cc/movies/covers/145/113/878545113-c43b8981ce4b0ced4acc7099190008c5.jpg",
+                    "367": "https://static.imovies.cc/movies/covers/367/113/878545113-c43b8981ce4b0ced4acc7099190008c5.jpg",
+                    "510": "https://static.imovies.cc/movies/covers/510/113/878545113-c43b8981ce4b0ced4acc7099190008c5.jpg",
+                    "1050": "https://static.imovies.cc/movies/covers/1050/113/878545113-c43b8981ce4b0ced4acc7099190008c5.jpg",
+                    "1920": "https://static.imovies.cc/movies/covers/1920/113/878545113-c43b8981ce4b0ced4acc7099190008c5.jpg",
+                    "imageHeight": 1080,
+                    "position": "center",
+                    "positionPercentage": "",
+                    "blurhash": "MCD+-yb|9Zt3o~0Y$%t7M{jF}%X9kYogad"
+                }
+            },
+            "plot": {
+                "data": {
+                    "description": "American Underdog tells the inspirational true story of Kurt Warner (Zachary Levi), who went from a stockboy at a grocery store to a two-time NFL MVP, Super Bowl champion, and Hall of Fame quarterback. The film centers on Warner's unique story and years of challenges and setbacks that could have derailed his aspirations to become an NFL player - but just when his dreams seemed all but out of reach, it is only with the support of his wife, Brenda (Anna Paquin) and the encouragement of his family, coaches, and teammates that Warner perseveres and finds the strength to show the world the champion that he already is.",
+                    "language": "ENG"
+                }
+            },
+            "plots": {
+                "data": [
+                    {
+                        "description": "American Underdog tells the inspirational true story of Kurt Warner (Zachary Levi), who went from a stockboy at a grocery store to a two-time NFL MVP, Super Bowl champion, and Hall of Fame quarterback. The film centers on Warner's unique story and years of challenges and setbacks that could have derailed his aspirations to become an NFL player - but just when his dreams seemed all but out of reach, it is only with the support of his wife, Brenda (Anna Paquin) and the encouragement of his family, coaches, and teammates that Warner perseveres and finds the strength to show the world the champion that he already is.",
+                        "language": "ENG"
+                    }
+                ]
+            },
+            "genres": {
+                "data": [
+                    {
+                        "id": 249,
+                        "primaryName": "დრამა",
+                        "secondaryName": "Drama",
+                        "tertiaryName": "Драма",
+                        "backgroundImage": ""
+                    }
+                ]
+            },
+            "trailers": {
+                "data": [
+                    {
+                        "id": 2349022,
+                        "name": "trailer",
+                        "fileUrl": "https://api.imovies.cc/api/v1/trailers/2349022/files",
+                        "language": "ENG"
+                    }
+                ]
+            },
+            "countries": {
+                "data": [
+                    {
+                        "id": 125,
+                        "primaryName": "აშშ",
+                        "secondaryName": "USA",
+                        "tertiaryName": "США"
+                    }
+                ]
+            },
+            "userFollows": {
+                "data": {
+                    "status": false
+                }
+            },
+            "userWantsToWatch": {
+                "data": {
+                    "status": false
+                }
+            },
+            "userSubscribed": {
+                "data": {
+                    "status": false
+                }
+            }
+        },
+        {
+            "id": 878541213,
+            "adjaraId": 878541213,
+            "primaryName": "",
+            "secondaryName": "Don't Look Up",
+            "tertiaryName": "Не смотрите наверх",
+            "originalName": "Don't Look Up",
+            "year": 2021,
+            "releaseDate": "2021-12-24",
+            "imdbUrl": "https://www.imdb.com/title/tt11286314",
+            "isTvShow": false,
+            "budget": "",
+            "income": "",
+            "duration": 145,
+            "adult": false,
+            "parentalControlRate": "r",
+            "watchCount": 0,
+            "canBePlayed": true,
+            "regionAllowed": true,
+            "cover": {
+                "small": "",
+                "large": ""
+            },
+            "poster": "",
+            "rating": {
+                "imovies": {
+                    "score": 0,
+                    "voters": 0
+                },
+                "imdb": {
+                    "score": 0,
+                    "voters": 0
+                },
+                "rotten": {
+                    "score": 0,
+                    "voters": null
+                },
+                "metacritic": {
+                    "score": 0,
+                    "voters": null
+                }
+            },
+            "hasSubtitles": false,
+            "languages": {
+                "data": []
+            },
+            "posters": {
+                "data": {
+                    "240": "https://static.imovies.cc/movies/posters/240/213/878541213-a68ce9db7eb7b067ff29985ee875e401.jpg",
+                    "blurhash": "cfOvw_WX=bj@snWW}UjtI?snR,oKsns-S3"
+                }
+            },
+            "covers": {
+                "data": {
+                    "145": "https://static.imovies.cc/movies/covers/145/213/878541213-4676d11e52aa35191dfc4be577a9fba5.jpg",
+                    "367": "https://static.imovies.cc/movies/covers/367/213/878541213-4676d11e52aa35191dfc4be577a9fba5.jpg",
+                    "510": "https://static.imovies.cc/movies/covers/510/213/878541213-4676d11e52aa35191dfc4be577a9fba5.jpg",
+                    "1050": "https://static.imovies.cc/movies/covers/1050/213/878541213-4676d11e52aa35191dfc4be577a9fba5.jpg",
+                    "1920": "https://static.imovies.cc/movies/covers/1050/213/878541213-4676d11e52aa35191dfc4be577a9fba5.jpg",
+                    "imageHeight": 591,
+                    "position": "center",
+                    "positionPercentage": "",
+                    "blurhash": "MBF=jf0000JE?F~V4.rWNc.8yZnPv|ENnh"
+                }
+            },
+            "plot": {
+                "data": {
+                    "description": "Kate Dibiasky (Jennifer Lawrence), an astronomy grad student, and her professor Dr. Randall Mindy (Leonardo DiCaprio) make an astounding discovery of a comet orbiting within the solar system. The problem - it's on a direct collision course with Earth. The other problem? No one really seems to care. Turns out warning mankind about a planet-killer the size of Mount Everest is an inconvenient fact to navigate. With the help of Dr. Oglethorpe (Rob Morgan), Kate and Randall embark on a media tour that takes them from the office of an indifferent President Orlean (Meryl Streep) and her sycophantic son and Chief of Staff, Jason (Jonah Hill), to the airwaves of The Daily Rip, an upbeat morning show hosted by Brie (Cate Blanchett) and Jack (Tyler Perry). With only six months until the comet makes impact, managing the 24-hour news cycle and gaining the attention of the social media obsessed public before it's too late proves shockingly comical - what will it take to get the world to just look up?.",
+                    "language": "ENG"
+                }
+            },
+            "plots": {
+                "data": [
+                    {
+                        "description": "Kate Dibiasky (Jennifer Lawrence), an astronomy grad student, and her professor Dr. Randall Mindy (Leonardo DiCaprio) make an astounding discovery of a comet orbiting within the solar system. The problem - it's on a direct collision course with Earth. The other problem? No one really seems to care. Turns out warning mankind about a planet-killer the size of Mount Everest is an inconvenient fact to navigate. With the help of Dr. Oglethorpe (Rob Morgan), Kate and Randall embark on a media tour that takes them from the office of an indifferent President Orlean (Meryl Streep) and her sycophantic son and Chief of Staff, Jason (Jonah Hill), to the airwaves of The Daily Rip, an upbeat morning show hosted by Brie (Cate Blanchett) and Jack (Tyler Perry). With only six months until the comet makes impact, managing the 24-hour news cycle and gaining the attention of the social media obsessed public before it's too late proves shockingly comical - what will it take to get the world to just look up?.",
+                        "language": "ENG"
+                    }
+                ]
+            },
+            "genres": {
+                "data": [
+                    {
+                        "id": 258,
+                        "primaryName": "კომედია",
+                        "secondaryName": "Comedy",
+                        "tertiaryName": "Комедия",
+                        "backgroundImage": "https://static.imovies.cc/genres/258-5da71db53631b.jpg"
+                    }
+                ]
+            },
+            "trailers": {
+                "data": [
+                    {
+                        "id": 2349000,
+                        "name": "trailer",
+                        "fileUrl": "https://api.imovies.cc/api/v1/trailers/2349000/files",
+                        "language": "ENG"
+                    }
+                ]
+            },
+            "countries": {
+                "data": [
+                    {
+                        "id": 125,
+                        "primaryName": "აშშ",
+                        "secondaryName": "USA",
+                        "tertiaryName": "США"
+                    }
+                ]
+            },
+            "userFollows": {
+                "data": {
+                    "status": false
+                }
+            },
+            "userWantsToWatch": {
+                "data": {
+                    "status": false
+                }
+            },
+            "userSubscribed": {
+                "data": {
+                    "status": false
+                }
+            }
+        },
+        {
+            "id": 878554070,
+            "adjaraId": 878554070,
+            "primaryName": "",
+            "secondaryName": "National Champions",
+            "tertiaryName": "",
+            "originalName": "National Champions",
+            "year": 2021,
+            "releaseDate": "2021-12-10",
+            "imdbUrl": "https://www.imdb.com/title/tt14547524",
+            "isTvShow": false,
+            "budget": "",
+            "income": "",
+            "duration": 0,
+            "adult": false,
+            "parentalControlRate": "r",
+            "watchCount": 0,
+            "canBePlayed": true,
+            "regionAllowed": true,
+            "cover": {
+                "small": "",
+                "large": ""
+            },
+            "poster": "",
+            "rating": {
+                "imovies": {
+                    "score": 0,
+                    "voters": 0
+                },
+                "imdb": {
+                    "score": 0,
+                    "voters": 0
+                },
+                "rotten": {
+                    "score": 0,
+                    "voters": null
+                },
+                "metacritic": {
+                    "score": 0,
+                    "voters": null
+                }
+            },
+            "hasSubtitles": false,
+            "languages": {
+                "data": []
+            },
+            "posters": {
+                "data": {
+                    "240": "https://static.imovies.cc/movies/posters/240/70/878554070-8dcffceb0b7f412bcfd0d0f337273d30.jpg",
+                    "blurhash": "c27-},Rj000XV@e-_%f8yV1gjZwOxpaxbI"
+                }
+            },
+            "covers": {
+                "data": {
+                    "145": "https://static.imovies.cc/movies/covers/145/70/878554070-d28ff046981f81b787c8abf4289116b0.jpg",
+                    "367": "https://static.imovies.cc/movies/covers/367/70/878554070-d28ff046981f81b787c8abf4289116b0.jpg",
+                    "510": "https://static.imovies.cc/movies/covers/510/70/878554070-d28ff046981f81b787c8abf4289116b0.jpg",
+                    "1050": "https://static.imovies.cc/movies/covers/1050/70/878554070-d28ff046981f81b787c8abf4289116b0.jpg",
+                    "1920": "https://static.imovies.cc/movies/covers/1050/70/878554070-d28ff046981f81b787c8abf4289116b0.jpg",
+                    "imageHeight": 590,
+                    "position": "center",
+                    "positionPercentage": "",
+                    "blurhash": "MfM*26D%%g~qM{-;bHM{Rjj@ays:aeRjay"
+                }
+            },
+            "plot": {
+                "data": {
+                    "description": "Follows star quarterback who ignites a players strike hours before the biggest game of the year in order to fight for fair compensation, equality and respect for the student-athletes.",
+                    "language": "ENG"
+                }
+            },
+            "plots": {
+                "data": [
+                    {
+                        "description": "Follows star quarterback who ignites a players strike hours before the biggest game of the year in order to fight for fair compensation, equality and respect for the student-athletes.",
+                        "language": "ENG"
+                    }
+                ]
+            },
+            "genres": {
+                "data": [
+                    {
+                        "id": 249,
+                        "primaryName": "დრამა",
+                        "secondaryName": "Drama",
+                        "tertiaryName": "Драма",
+                        "backgroundImage": ""
+                    }
+                ]
+            },
+            "trailers": {
+                "data": [
+                    {
+                        "id": 2348999,
+                        "name": "trailer",
+                        "fileUrl": "https://api.imovies.cc/api/v1/trailers/2348999/files",
+                        "language": "ENG"
+                    }
+                ]
+            },
+            "countries": {
+                "data": [
+                    {
+                        "id": 125,
+                        "primaryName": "აშშ",
+                        "secondaryName": "USA",
+                        "tertiaryName": "США"
+                    }
+                ]
+            },
+            "userFollows": {
+                "data": {
+                    "status": false
+                }
+            },
+            "userWantsToWatch": {
+                "data": {
+                    "status": false
+                }
+            },
+            "userSubscribed": {
+                "data": {
+                    "status": false
+                }
+            }
+        },
+        {
+            "id": 878553710,
+            "adjaraId": 878553710,
+            "primaryName": "",
+            "secondaryName": "Moon Knight",
+            "tertiaryName": "Лунный рыцарь",
+            "originalName": "Moon Knight",
+            "year": 2022,
+            "releaseDate": null,
+            "imdbUrl": "https://www.imdb.com/title/tt10234724",
+            "isTvShow": false,
+            "budget": "",
+            "income": "",
+            "duration": 0,
+            "adult": false,
+            "parentalControlRate": null,
+            "watchCount": 0,
+            "canBePlayed": true,
+            "regionAllowed": true,
+            "cover": {
+                "small": "",
+                "large": ""
+            },
+            "poster": "",
+            "rating": {
+                "imovies": {
+                    "score": 0,
+                    "voters": 0
+                },
+                "imdb": {
+                    "score": 0,
+                    "voters": 0
+                },
+                "rotten": {
+                    "score": 0,
+                    "voters": null
+                },
+                "metacritic": {
+                    "score": 0,
+                    "voters": null
+                }
+            },
+            "hasSubtitles": false,
+            "languages": {
+                "data": []
+            },
+            "posters": {
+                "data": {
+                    "240": "https://static.imovies.cc/movies/posters/240/710/878553710-80ef5d7af734fc6232ebf6fa34c315dc.jpg",
+                    "blurhash": "c11VrWogE0s:jtR*9EWA%NM{azxb-?kDIU"
+                }
+            },
+            "covers": {
+                "data": {
+                    "145": "https://static.imovies.cc/movies/covers/145/710/878553710-4fd85d9631d143799e00b409a525dfb5.jpg",
+                    "367": "https://static.imovies.cc/movies/covers/367/710/878553710-4fd85d9631d143799e00b409a525dfb5.jpg",
+                    "510": "https://static.imovies.cc/movies/covers/510/710/878553710-4fd85d9631d143799e00b409a525dfb5.jpg",
+                    "1050": "https://static.imovies.cc/movies/covers/1050/710/878553710-4fd85d9631d143799e00b409a525dfb5.jpg",
+                    "1920": "https://static.imovies.cc/movies/covers/1050/710/878553710-4fd85d9631d143799e00b409a525dfb5.jpg",
+                    "imageHeight": 591,
+                    "position": "center",
+                    "positionPercentage": "",
+                    "blurhash": "MGDIa+1mzrE+?H}[AK-BbXNZ^PEkn4S0%1"
+                }
+            },
+            "plot": {
+                "data": {
+                    "description": "Marc Spector is a former CIA agent whose life is saved by the Moon God, Khonshu.",
+                    "language": "ENG"
+                }
+            },
+            "plots": {
+                "data": [
+                    {
+                        "description": "Marc Spector is a former CIA agent whose life is saved by the Moon God, Khonshu.",
+                        "language": "ENG"
+                    }
+                ]
+            },
+            "genres": {
+                "data": [
+                    {
+                        "id": 248,
+                        "primaryName": "მძაფრ-სიუჟეტიანი",
+                        "secondaryName": "Action",
+                        "tertiaryName": "Боевик",
+                        "backgroundImage": "https://static.imovies.cc/genres/248-5da7181803087.jpg"
+                    },
+                    {
+                        "id": 249,
+                        "primaryName": "დრამა",
+                        "secondaryName": "Drama",
+                        "tertiaryName": "Драма",
+                        "backgroundImage": ""
+                    },
+                    {
+                        "id": 266,
+                        "primaryName": "სათავგადასავლო",
+                        "secondaryName": "Adventure",
+                        "tertiaryName": "Приключения",
+                        "backgroundImage": "https://static.imovies.cc/genres/266-5da718309d451.jpg"
+                    }
+                ]
+            },
+            "trailers": {
+                "data": []
+            },
+            "countries": {
+                "data": [
+                    {
+                        "id": 125,
+                        "primaryName": "აშშ",
+                        "secondaryName": "USA",
+                        "tertiaryName": "США"
+                    }
+                ]
+            },
+            "userFollows": {
+                "data": {
+                    "status": false
+                }
+            },
+            "userWantsToWatch": {
+                "data": {
+                    "status": false
+                }
+            },
+            "userSubscribed": {
+                "data": {
+                    "status": false
+                }
+            }
+        },
+        {
+            "id": 878507555,
+            "adjaraId": 878507555,
+            "primaryName": "",
+            "secondaryName": "She-Hulk",
+            "tertiaryName": "",
+            "originalName": "",
+            "year": 0,
+            "releaseDate": null,
+            "imdbUrl": "https://www.imdb.com/title/tt10857160",
+            "isTvShow": false,
+            "budget": "",
+            "income": "",
+            "duration": 0,
+            "adult": false,
+            "parentalControlRate": null,
+            "watchCount": 0,
+            "canBePlayed": true,
+            "regionAllowed": true,
+            "cover": {
+                "small": "",
+                "large": ""
+            },
+            "poster": "",
+            "rating": {
+                "imovies": {
+                    "score": 3,
+                    "voters": 2
+                },
+                "imdb": {
+                    "score": 0,
+                    "voters": 0
+                },
+                "rotten": {
+                    "score": 0,
+                    "voters": null
+                },
+                "metacritic": {
+                    "score": 0,
+                    "voters": null
+                }
+            },
+            "hasSubtitles": false,
+            "languages": {
+                "data": []
+            },
+            "posters": {
+                "data": {
+                    "240": "https://static.imovies.cc/movies/posters/240/555/878507555-1cbb2b583b4440b47924992fbba002c7.jpg",
+                    "blurhash": "c52GWOrMIBrxkBW-HZXxyCPJVuwPy;m]R6"
+                }
+            },
+            "covers": {
+                "data": {
+                    "145": "https://static.imovies.cc/movies/covers/145/555/878507555-d510e23a198c92c8119f4f662fa75831.jpg",
+                    "367": "https://static.imovies.cc/movies/covers/367/555/878507555-d510e23a198c92c8119f4f662fa75831.jpg",
+                    "510": "https://static.imovies.cc/movies/covers/510/555/878507555-d510e23a198c92c8119f4f662fa75831.jpg",
+                    "1050": "https://static.imovies.cc/movies/covers/1050/555/878507555-d510e23a198c92c8119f4f662fa75831.jpg",
+                    "1920": "https://static.imovies.cc/movies/covers/1050/555/878507555-d510e23a198c92c8119f4f662fa75831.jpg",
+                    "imageHeight": 700,
+                    "position": "center",
+                    "positionPercentage": "",
+                    "blurhash": "M33JuJu|8xK;zM*stjKZRPyAHXT+ufr5p="
+                }
+            },
+            "plot": {
+                "data": {
+                    "description": "Jennifer Walters acquires Hulk-like qualities.",
+                    "language": "ENG"
+                }
+            },
+            "plots": {
+                "data": [
+                    {
+                        "description": "Jennifer Walters acquires Hulk-like qualities.",
+                        "language": "ENG"
+                    }
+                ]
+            },
+            "genres": {
+                "data": [
+                    {
+                        "id": 248,
+                        "primaryName": "მძაფრ-სიუჟეტიანი",
+                        "secondaryName": "Action",
+                        "tertiaryName": "Боевик",
+                        "backgroundImage": "https://static.imovies.cc/genres/248-5da7181803087.jpg"
+                    },
+                    {
+                        "id": 249,
+                        "primaryName": "დრამა",
+                        "secondaryName": "Drama",
+                        "tertiaryName": "Драма",
+                        "backgroundImage": ""
+                    },
+                    {
+                        "id": 257,
+                        "primaryName": "ფანტასტიკა",
+                        "secondaryName": "Sci-Fi",
+                        "tertiaryName": "Фантастика",
+                        "backgroundImage": "https://static.imovies.cc/genres/257-5da71853c4076.jpg"
+                    },
+                    {
+                        "id": 258,
+                        "primaryName": "კომედია",
+                        "secondaryName": "Comedy",
+                        "tertiaryName": "Комедия",
+                        "backgroundImage": "https://static.imovies.cc/genres/258-5da71db53631b.jpg"
+                    },
+                    {
+                        "id": 266,
+                        "primaryName": "სათავგადასავლო",
+                        "secondaryName": "Adventure",
+                        "tertiaryName": "Приключения",
+                        "backgroundImage": "https://static.imovies.cc/genres/266-5da718309d451.jpg"
+                    },
+                    {
+                        "id": 275,
+                        "primaryName": "სერიალი",
+                        "secondaryName": "TV Series",
+                        "tertiaryName": "Сериал",
+                        "backgroundImage": ""
+                    }
+                ]
+            },
+            "trailers": {
+                "data": []
+            },
+            "countries": {
+                "data": [
+                    {
+                        "id": 125,
+                        "primaryName": "აშშ",
+                        "secondaryName": "USA",
+                        "tertiaryName": "США"
+                    }
+                ]
+            },
+            "userFollows": {
+                "data": {
+                    "status": false
+                }
+            },
+            "userWantsToWatch": {
+                "data": {
+                    "status": false
+                }
+            },
+            "userSubscribed": {
+                "data": {
+                    "status": false
+                }
+            }
+        },
+        {
+            "id": 878553501,
+            "adjaraId": 878553501,
+            "primaryName": "",
+            "secondaryName": "The Hand of God",
+            "tertiaryName": "Рука Бога",
+            "originalName": "È stata la mano di Dio",
+            "year": 2021,
+            "releaseDate": "2021-12-15",
+            "imdbUrl": "https://www.imdb.com/title/tt12680684",
+            "isTvShow": false,
+            "budget": "",
+            "income": "$13,007",
+            "duration": 130,
+            "adult": false,
+            "parentalControlRate": "r",
+            "watchCount": 0,
+            "canBePlayed": true,
+            "regionAllowed": true,
+            "cover": {
+                "small": "",
+                "large": ""
+            },
+            "poster": "",
+            "rating": {
+                "imovies": {
+                    "score": 0,
+                    "voters": 0
+                },
+                "imdb": {
+                    "score": 7.8,
+                    "voters": 1809
+                },
+                "rotten": {
+                    "score": 0,
+                    "voters": null
+                },
+                "metacritic": {
+                    "score": 0,
+                    "voters": null
+                }
+            },
+            "hasSubtitles": false,
+            "languages": {
+                "data": []
+            },
+            "posters": {
+                "data": {
+                    "240": "https://static.imovies.cc/movies/posters/240/501/878553501-4bbfc2f45890a0e94d866b3c9e37f687.jpg",
+                    "blurhash": "c8C@~tE2R304_2x^HX8^Ip}=Mxxt9u-;oz"
+                }
+            },
+            "covers": {
+                "data": {
+                    "145": "https://static.imovies.cc/movies/covers/145/501/878553501-bddfc3b7f2bce361bf1d2cb06fe029f4.jpg",
+                    "367": "https://static.imovies.cc/movies/covers/367/501/878553501-bddfc3b7f2bce361bf1d2cb06fe029f4.jpg",
+                    "510": "https://static.imovies.cc/movies/covers/510/501/878553501-bddfc3b7f2bce361bf1d2cb06fe029f4.jpg",
+                    "1050": "https://static.imovies.cc/movies/covers/1050/501/878553501-bddfc3b7f2bce361bf1d2cb06fe029f4.jpg",
+                    "1920": "https://static.imovies.cc/movies/covers/1920/501/878553501-bddfc3b7f2bce361bf1d2cb06fe029f4.jpg",
+                    "imageHeight": 1328,
+                    "position": "center",
+                    "positionPercentage": "",
+                    "blurhash": "MBF?w:00Mb%Mtmys-=-:bHaJ0f-=xvofoL"
+                }
+            },
+            "plot": {
+                "data": {
+                    "description": "From Academy Award-winning writer and director Paolo Sorrentino (Il Divo, The Great Beauty, The Young Pope), comes the story of a boy, Fabietto Schisa, in the tumultuous Naples of the 1980s. The Hand of God is a story full of unexpected joys, such as the arrival of football legend Diego Maradona, and an equally unexpected tragedy. Fate plays its part, joy and tragedy intertwine, and Fabietto's future is set in motion. Sorrentino returns to his hometown to tell his most personal story, a tale of fate and family, sports and cinema, love and loss.",
+                    "language": "ENG"
+                }
+            },
+            "plots": {
+                "data": [
+                    {
+                        "description": "From Academy Award-winning writer and director Paolo Sorrentino (Il Divo, The Great Beauty, The Young Pope), comes the story of a boy, Fabietto Schisa, in the tumultuous Naples of the 1980s. The Hand of God is a story full of unexpected joys, such as the arrival of football legend Diego Maradona, and an equally unexpected tragedy. Fate plays its part, joy and tragedy intertwine, and Fabietto's future is set in motion. Sorrentino returns to his hometown to tell his most personal story, a tale of fate and family, sports and cinema, love and loss.",
+                        "language": "ENG"
+                    }
+                ]
+            },
+            "genres": {
+                "data": [
+                    {
+                        "id": 249,
+                        "primaryName": "დრამა",
+                        "secondaryName": "Drama",
+                        "tertiaryName": "Драма",
+                        "backgroundImage": ""
+                    },
+                    {
+                        "id": 275,
+                        "primaryName": "სერიალი",
+                        "secondaryName": "TV Series",
+                        "tertiaryName": "Сериал",
+                        "backgroundImage": ""
+                    }
+                ]
+            },
+            "trailers": {
+                "data": [
+                    {
+                        "id": 2348949,
+                        "name": "trailer",
+                        "fileUrl": "https://api.imovies.cc/api/v1/trailers/2348949/files",
+                        "language": "ITA"
+                    }
+                ]
+            },
+            "countries": {
+                "data": [
+                    {
+                        "id": 135,
+                        "primaryName": "იტალია",
+                        "secondaryName": "Italy",
+                        "tertiaryName": "Италия"
+                    }
+                ]
+            },
+            "userFollows": {
+                "data": {
+                    "status": false
+                }
+            },
+            "userWantsToWatch": {
+                "data": {
+                    "status": false
+                }
+            },
+            "userSubscribed": {
+                "data": {
+                    "status": false
+                }
+            }
+        },
+        {
+            "id": 878551784,
+            "adjaraId": 878551784,
+            "primaryName": "",
+            "secondaryName": "Station Eleven",
+            "tertiaryName": "",
+            "originalName": "Station Eleven",
+            "year": 2021,
+            "releaseDate": "2021-12-16",
+            "imdbUrl": "https://www.imdb.com/title/tt10574236",
+            "isTvShow": false,
+            "budget": "",
+            "income": "",
+            "duration": 0,
+            "adult": false,
+            "parentalControlRate": null,
+            "watchCount": 0,
+            "canBePlayed": true,
+            "regionAllowed": true,
+            "cover": {
+                "small": "",
+                "large": ""
+            },
+            "poster": "",
+            "rating": {
+                "imovies": {
+                    "score": 0,
+                    "voters": 0
+                },
+                "imdb": {
+                    "score": 6.6,
+                    "voters": 0
+                },
+                "rotten": {
+                    "score": 0,
+                    "voters": null
+                },
+                "metacritic": {
+                    "score": 0,
+                    "voters": null
+                }
+            },
+            "hasSubtitles": false,
+            "languages": {
+                "data": []
+            },
+            "posters": {
+                "data": {
+                    "240": "https://static.imovies.cc/movies/posters/240/784/878551784-54097712fe842f09c321029b617b1a35.jpg",
+                    "blurhash": "c67J_FG0DzB@$oozxRS%V|D%oMxu9Yjaxu"
+                }
+            },
+            "covers": {
+                "data": {
+                    "145": "https://static.imovies.cc/movies/covers/145/784/878551784-8cae17d757eb600f88a1ef8446c22875.jpg",
+                    "367": "https://static.imovies.cc/movies/covers/367/784/878551784-8cae17d757eb600f88a1ef8446c22875.jpg",
+                    "510": "https://static.imovies.cc/movies/covers/510/784/878551784-8cae17d757eb600f88a1ef8446c22875.jpg",
+                    "1050": "https://static.imovies.cc/movies/covers/1050/784/878551784-8cae17d757eb600f88a1ef8446c22875.jpg",
+                    "1920": "https://static.imovies.cc/movies/covers/1050/784/878551784-8cae17d757eb600f88a1ef8446c22875.jpg",
+                    "imageHeight": 591,
+                    "position": "center",
+                    "positionPercentage": "",
+                    "blurhash": "MBG7^o0O04tP0O~S9wWC=^E402%K~SM}--"
+                }
+            },
+            "plot": {
+                "data": {
+                    "description": "A Hollywood star, his would-be savior, and a nomadic group of actors roaming the scattered outposts of the Great Lakes region, risking everything for art and humanity. One snowy night a famous Hollywood actor slumps over and dies onstage during a production of King Lear. Hours later, the world as we know it begins to dissolve. Moving back and forth in time-from the actor's early days as a film star to fifteen years in the future, when a theater troupe known as the Traveling Symphony roams the wasteland of what remains this suspenseful, elegiac, spellbinding novel charts the strange twists of fate that connect five people: the actor, the man who tried to save him, the actor's first wife, his oldest friend, and a young actress with the Traveling Symphony, caught in the crosshairs of a dangerous self-proclaimed prophet.",
+                    "language": "ENG"
+                }
+            },
+            "plots": {
+                "data": [
+                    {
+                        "description": "A Hollywood star, his would-be savior, and a nomadic group of actors roaming the scattered outposts of the Great Lakes region, risking everything for art and humanity. One snowy night a famous Hollywood actor slumps over and dies onstage during a production of King Lear. Hours later, the world as we know it begins to dissolve. Moving back and forth in time-from the actor's early days as a film star to fifteen years in the future, when a theater troupe known as the Traveling Symphony roams the wasteland of what remains this suspenseful, elegiac, spellbinding novel charts the strange twists of fate that connect five people: the actor, the man who tried to save him, the actor's first wife, his oldest friend, and a young actress with the Traveling Symphony, caught in the crosshairs of a dangerous self-proclaimed prophet.",
+                        "language": "ENG"
+                    }
+                ]
+            },
+            "genres": {
+                "data": [
+                    {
+                        "id": 249,
+                        "primaryName": "დრამა",
+                        "secondaryName": "Drama",
+                        "tertiaryName": "Драма",
+                        "backgroundImage": ""
+                    },
+                    {
+                        "id": 256,
+                        "primaryName": "მისტიკა",
+                        "secondaryName": "Mystery",
+                        "tertiaryName": "Мистика",
+                        "backgroundImage": ""
+                    },
+                    {
+                        "id": 257,
+                        "primaryName": "ფანტასტიკა",
+                        "secondaryName": "Sci-Fi",
+                        "tertiaryName": "Фантастика",
+                        "backgroundImage": "https://static.imovies.cc/genres/257-5da71853c4076.jpg"
+                    },
+                    {
+                        "id": 275,
+                        "primaryName": "სერიალი",
+                        "secondaryName": "TV Series",
+                        "tertiaryName": "Сериал",
+                        "backgroundImage": ""
+                    }
+                ]
+            },
+            "trailers": {
+                "data": []
+            },
+            "countries": {
+                "data": [
+                    {
+                        "id": 125,
+                        "primaryName": "აშშ",
+                        "secondaryName": "USA",
+                        "tertiaryName": "США"
+                    }
+                ]
+            },
+            "userFollows": {
+                "data": {
+                    "status": false
+                }
+            },
+            "userWantsToWatch": {
+                "data": {
+                    "status": false
+                }
+            },
+            "userSubscribed": {
+                "data": {
+                    "status": false
+                }
+            }
+        },
+        {
+            "id": 878440719,
+            "adjaraId": 878440719,
+            "primaryName": "",
+            "secondaryName": "Morbius",
+            "tertiaryName": "Морбиус",
+            "originalName": "Morbius",
+            "year": 2022,
+            "releaseDate": "2022-01-28",
+            "imdbUrl": "https://www.imdb.com/title/tt5108870",
+            "isTvShow": false,
+            "budget": "",
+            "income": "",
+            "duration": 0,
+            "adult": false,
+            "parentalControlRate": "pg-13",
+            "watchCount": 0,
+            "canBePlayed": true,
+            "regionAllowed": true,
+            "cover": {
+                "small": "",
+                "large": ""
+            },
+            "poster": "",
+            "rating": {
+                "imovies": {
+                    "score": 4.5,
+                    "voters": 8
+                },
+                "imdb": {
+                    "score": 0,
+                    "voters": 0
+                },
+                "rotten": {
+                    "score": 0,
+                    "voters": null
+                },
+                "metacritic": {
+                    "score": 0,
+                    "voters": null
+                }
+            },
+            "hasSubtitles": false,
+            "languages": {
+                "data": []
+            },
+            "posters": {
+                "data": {
+                    "240": "https://static.imovies.cc/movies/posters/240/719/878440719-c2a8e95e6a7abed5e16965d133c55c73.jpg",
+                    "blurhash": "c35=CM_4EMD%aes;E0ofxGxaWVS28_D$V@"
+                }
+            },
+            "covers": {
+                "data": {
+                    "145": "https://static.imovies.cc/movies/covers/145/719/878440719-bafd2bc8662ebe3cf8aa6dada2b5f34b.jpg",
+                    "367": "https://static.imovies.cc/movies/covers/367/719/878440719-bafd2bc8662ebe3cf8aa6dada2b5f34b.jpg",
+                    "510": "https://static.imovies.cc/movies/covers/510/719/878440719-bafd2bc8662ebe3cf8aa6dada2b5f34b.jpg",
+                    "1050": "https://static.imovies.cc/movies/covers/1050/719/878440719-bafd2bc8662ebe3cf8aa6dada2b5f34b.jpg",
+                    "1920": "https://static.imovies.cc/movies/covers/1050/719/878440719-bafd2bc8662ebe3cf8aa6dada2b5f34b.jpg",
+                    "imageHeight": 591,
+                    "position": "center",
+                    "positionPercentage": "",
+                    "blurhash": "M54y7gIADOxuRj_NIAMxx]M{-;MxX8xaMx"
+                }
+            },
+            "plot": {
+                "data": {
+                    "description": "Dangerously ill with a rare blood disorder, and determined to save others suffering his same fate, Dr. Morbius attempts a desperate gamble. What at first appears to be a radical success soon reveals itself to be a remedy potentially worse than the disease.",
+                    "language": "ENG"
+                }
+            },
+            "plots": {
+                "data": [
+                    {
+                        "description": "Dangerously ill with a rare blood disorder, and determined to save others suffering his same fate, Dr. Morbius attempts a desperate gamble. What at first appears to be a radical success soon reveals itself to be a remedy potentially worse than the disease.",
+                        "language": "ENG"
+                    }
+                ]
+            },
+            "genres": {
+                "data": [
+                    {
+                        "id": 248,
+                        "primaryName": "მძაფრ-სიუჟეტიანი",
+                        "secondaryName": "Action",
+                        "tertiaryName": "Боевик",
+                        "backgroundImage": "https://static.imovies.cc/genres/248-5da7181803087.jpg"
+                    },
+                    {
+                        "id": 249,
+                        "primaryName": "დრამა",
+                        "secondaryName": "Drama",
+                        "tertiaryName": "Драма",
+                        "backgroundImage": ""
+                    },
+                    {
+                        "id": 250,
+                        "primaryName": "თრილერი",
+                        "secondaryName": "Thriller",
+                        "tertiaryName": "Триллер",
+                        "backgroundImage": ""
+                    },
+                    {
+                        "id": 255,
+                        "primaryName": "საშინელებათა ფილმი",
+                        "secondaryName": "Horror",
+                        "tertiaryName": "Ужас",
+                        "backgroundImage": "https://static.imovies.cc/genres/255-5da718915ef4d.jpg"
+                    },
+                    {
+                        "id": 257,
+                        "primaryName": "ფანტასტიკა",
+                        "secondaryName": "Sci-Fi",
+                        "tertiaryName": "Фантастика",
+                        "backgroundImage": "https://static.imovies.cc/genres/257-5da71853c4076.jpg"
+                    },
+                    {
+                        "id": 266,
+                        "primaryName": "სათავგადასავლო",
+                        "secondaryName": "Adventure",
+                        "tertiaryName": "Приключения",
+                        "backgroundImage": "https://static.imovies.cc/genres/266-5da718309d451.jpg"
+                    }
+                ]
+            },
+            "trailers": {
+                "data": [
+                    {
+                        "id": 2348814,
+                        "name": "trailer",
+                        "fileUrl": "https://api.imovies.cc/api/v1/trailers/2348814/files",
+                        "language": "ENG"
+                    }
+                ]
+            },
+            "countries": {
+                "data": [
+                    {
+                        "id": 125,
+                        "primaryName": "აშშ",
+                        "secondaryName": "USA",
+                        "tertiaryName": "США"
+                    }
+                ]
+            },
+            "userFollows": {
+                "data": {
+                    "status": false
+                }
+            },
+            "userWantsToWatch": {
+                "data": {
+                    "status": false
+                }
+            },
+            "userSubscribed": {
+                "data": {
+                    "status": false
+                }
+            }
+        },
+        {
+            "id": 878502212,
+            "adjaraId": 878502212,
+            "primaryName": "",
+            "secondaryName": "Lightyear",
+            "tertiaryName": "",
+            "originalName": "Lightyear",
+            "year": 2022,
+            "releaseDate": "2022-06-17",
+            "imdbUrl": "https://www.imdb.com/title/tt10298810",
+            "isTvShow": false,
+            "budget": "",
+            "income": "",
+            "duration": 0,
+            "adult": false,
+            "parentalControlRate": null,
+            "watchCount": 0,
+            "canBePlayed": true,
+            "regionAllowed": true,
+            "cover": {
+                "small": "",
+                "large": ""
+            },
+            "poster": "",
+            "rating": {
+                "imovies": {
+                    "score": 0,
+                    "voters": 0
+                },
+                "imdb": {
+                    "score": 0,
+                    "voters": 0
+                },
+                "rotten": {
+                    "score": 0,
+                    "voters": null
+                },
+                "metacritic": {
+                    "score": 0,
+                    "voters": null
+                }
+            },
+            "hasSubtitles": false,
+            "languages": {
+                "data": []
+            },
+            "posters": {
+                "data": {
+                    "240": "https://static.imovies.cc/movies/posters/240/212/878502212-7c65c67bcc1353b18a87f13c62967fd8.jpg",
+                    "blurhash": "c63u+fWBRij[ayay8^oft8WBj[j[?wWBRj"
+                }
+            },
+            "covers": {
+                "data": {
+                    "145": "https://static.imovies.cc/movies/covers/145/212/878502212-6bcca3ab073afba4b7840f8670c2d68e.jpg",
+                    "367": "https://static.imovies.cc/movies/covers/367/212/878502212-6bcca3ab073afba4b7840f8670c2d68e.jpg",
+                    "510": "https://static.imovies.cc/movies/covers/510/212/878502212-6bcca3ab073afba4b7840f8670c2d68e.jpg",
+                    "1050": "https://static.imovies.cc/movies/covers/1050/212/878502212-6bcca3ab073afba4b7840f8670c2d68e.jpg",
+                    "1920": "https://static.imovies.cc/movies/covers/1920/212/878502212-6bcca3ab073afba4b7840f8670c2d68e.jpg",
+                    "imageHeight": 1079,
+                    "position": "center",
+                    "positionPercentage": "18.54",
+                    "blurhash": "M26tBwpI0}}WZi=wNGEf-VR-0g$N^O9^J8"
+                }
+            },
+            "plot": {
+                "data": {
+                    "description": "The story of Buzz Lightyear and his adventures to infinity and beyond.",
+                    "language": "ENG"
+                }
+            },
+            "plots": {
+                "data": [
+                    {
+                        "description": "The story of Buzz Lightyear and his adventures to infinity and beyond.",
+                        "language": "ENG"
+                    }
+                ]
+            },
+            "genres": {
+                "data": [
+                    {
+                        "id": 257,
+                        "primaryName": "ფანტასტიკა",
+                        "secondaryName": "Sci-Fi",
+                        "tertiaryName": "Фантастика",
+                        "backgroundImage": "https://static.imovies.cc/genres/257-5da71853c4076.jpg"
+                    },
+                    {
+                        "id": 261,
+                        "primaryName": "ზღაპრული (ფენტეზი)",
+                        "secondaryName": "Fantasy",
+                        "tertiaryName": "Фэнтези",
+                        "backgroundImage": ""
+                    },
+                    {
+                        "id": 263,
+                        "primaryName": "საოჯახო",
+                        "secondaryName": "Family",
+                        "tertiaryName": "Семейный",
+                        "backgroundImage": "https://static.imovies.cc/genres/263-5da71872982d2.jpg"
+                    },
+                    {
+                        "id": 265,
+                        "primaryName": "ანიმაციური",
+                        "secondaryName": "Animation",
+                        "tertiaryName": "Анимация",
+                        "backgroundImage": "https://static.imovies.cc/genres/265-5e8b303691e38.jpg"
+                    },
+                    {
+                        "id": 266,
+                        "primaryName": "სათავგადასავლო",
+                        "secondaryName": "Adventure",
+                        "tertiaryName": "Приключения",
+                        "backgroundImage": "https://static.imovies.cc/genres/266-5da718309d451.jpg"
+                    }
+                ]
+            },
+            "trailers": {
+                "data": [
+                    {
+                        "id": 2348765,
+                        "name": "trailer",
+                        "fileUrl": "https://api.imovies.cc/api/v1/trailers/2348765/files",
+                        "language": "ENG"
+                    }
+                ]
+            },
+            "countries": {
+                "data": [
+                    {
+                        "id": 125,
+                        "primaryName": "აშშ",
+                        "secondaryName": "USA",
+                        "tertiaryName": "США"
+                    }
+                ]
+            },
+            "userFollows": {
+                "data": {
+                    "status": false
+                }
+            },
+            "userWantsToWatch": {
+                "data": {
+                    "status": false
+                }
+            },
+            "userSubscribed": {
+                "data": {
+                    "status": false
+                }
+            }
+        },
+        {
+            "id": 878549195,
+            "adjaraId": 878549195,
+            "primaryName": "",
+            "secondaryName": "Ambulance",
+            "tertiaryName": "Скорая помощь",
+            "originalName": "Ambulance",
+            "year": 2022,
+            "releaseDate": "2022-02-18",
+            "imdbUrl": "https://www.imdb.com/title/tt4998632",
+            "isTvShow": false,
+            "budget": "",
+            "income": "",
+            "duration": 0,
+            "adult": false,
+            "parentalControlRate": "r",
+            "watchCount": 0,
+            "canBePlayed": true,
+            "regionAllowed": true,
+            "cover": {
+                "small": "",
+                "large": ""
+            },
+            "poster": "",
+            "rating": {
+                "imovies": {
+                    "score": 0,
+                    "voters": 0
+                },
+                "imdb": {
+                    "score": 0,
+                    "voters": 0
+                },
+                "rotten": {
+                    "score": 0,
+                    "voters": null
+                },
+                "metacritic": {
+                    "score": 0,
+                    "voters": null
+                }
+            },
+            "hasSubtitles": false,
+            "languages": {
+                "data": []
+            },
+            "posters": {
+                "data": {
+                    "240": "https://static.imovies.cc/movies/posters/240/195/878549195-b65ff8bf7b4676bf5a63705b0aea62f1.jpg",
+                    "blurhash": "cQIDExo0D#}lW.x==qj[.7cBniSct*R*WB"
+                }
+            },
+            "covers": {
+                "data": {
+                    "145": "https://static.imovies.cc/movies/covers/145/195/878549195-f14e1fcb0e1c879b151840cb589490fe.jpg",
+                    "367": "https://static.imovies.cc/movies/covers/367/195/878549195-f14e1fcb0e1c879b151840cb589490fe.jpg",
+                    "510": "https://static.imovies.cc/movies/covers/510/195/878549195-f14e1fcb0e1c879b151840cb589490fe.jpg",
+                    "1050": "https://static.imovies.cc/movies/covers/1050/195/878549195-f14e1fcb0e1c879b151840cb589490fe.jpg",
+                    "1920": "https://static.imovies.cc/movies/covers/1920/195/878549195-f14e1fcb0e1c879b151840cb589490fe.jpg",
+                    "imageHeight": 1077,
+                    "position": "center",
+                    "positionPercentage": "1.17",
+                    "blurhash": "M88z}bIV01.7_M%zxYM{WCozD%tRt7VsRP"
+                }
+            },
+            "plot": {
+                "data": {
+                    "description": "Two robbers steal an ambulance after their heist goes awry.",
+                    "language": "ENG"
+                }
+            },
+            "plots": {
+                "data": [
+                    {
+                        "description": "Two robbers steal an ambulance after their heist goes awry.",
+                        "language": "ENG"
+                    }
+                ]
+            },
+            "genres": {
+                "data": [
+                    {
+                        "id": 248,
+                        "primaryName": "მძაფრ-სიუჟეტიანი",
+                        "secondaryName": "Action",
+                        "tertiaryName": "Боевик",
+                        "backgroundImage": "https://static.imovies.cc/genres/248-5da7181803087.jpg"
+                    },
+                    {
+                        "id": 249,
+                        "primaryName": "დრამა",
+                        "secondaryName": "Drama",
+                        "tertiaryName": "Драма",
+                        "backgroundImage": ""
+                    },
+                    {
+                        "id": 259,
+                        "primaryName": "დეტექტივი",
+                        "secondaryName": "Crime",
+                        "tertiaryName": "Криминал",
+                        "backgroundImage": "https://static.imovies.cc/genres/259-5da717570d695.jpg"
+                    }
+                ]
+            },
+            "trailers": {
+                "data": [
+                    {
+                        "id": 2348692,
+                        "name": "trailer",
+                        "fileUrl": "https://api.imovies.cc/api/v1/trailers/2348692/files",
+                        "language": "ENG"
+                    }
+                ]
+            },
+            "countries": {
+                "data": [
+                    {
+                        "id": 125,
+                        "primaryName": "აშშ",
+                        "secondaryName": "USA",
+                        "tertiaryName": "США"
+                    }
+                ]
+            },
+            "userFollows": {
+                "data": {
+                    "status": false
+                }
+            },
+            "userWantsToWatch": {
+                "data": {
+                    "status": false
+                }
+            },
+            "userSubscribed": {
+                "data": {
+                    "status": false
+                }
+            }
+        }
+    ],
+    "meta": {
+        "userSubscribed": {
+            "status": false
+        },
+        "pagination": {
+            "total": 76,
+            "count": 20,
+            "per_page": 20,
+            "current_page": 1,
+            "total_pages": 4,
+            "links": {
+                "next": "https://api.imovies.cc/api/v1/trailers/trailer-day?page=2"
+            }
+        }
+    }
+}

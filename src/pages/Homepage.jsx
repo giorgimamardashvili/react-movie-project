@@ -8,6 +8,7 @@ const Homepage = () => {
   const getMovies = React.useCallback(async () => {
     try {
       const response = await axios.get(vars.MoviesDataUrl);
+      console.log(response);
       setMovies(response.data.data);
     } catch (e) {
       console.log(e);
