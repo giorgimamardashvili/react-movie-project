@@ -1,5 +1,5 @@
 export const vars = {
-  MoviesDataUrl: "http://localhost:4000/movies",
+  MoviesDataUrl: "http://127.0.0.1:4000/movies",
   SearchDataUrl: "https://movie.ge/Api/WebService/search/",
   WeatherApi: "https://api.openweathermap.org/data/2.5/weather?q=",
   ImdbUrl: "https://www.imdb.com/title",
