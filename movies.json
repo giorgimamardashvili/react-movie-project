@@ -5,8 +5,8 @@
             "adjaraId": 878557407,
             "primaryName": "",
             "secondaryName": "Fantastic Beasts: The Secrets of Dumbledore",
-            "tertiaryName": "",
-            "originalName": "",
+            "tertiaryName": "Фантастические твари: Тайны Дамблдора",
+            "originalName": "Fantastic Beasts: The Secrets of Dumbledore",
             "year": 2022,
             "releaseDate": "2022-04-15",
             "imdbUrl": "https://www.imdb.com/title/tt4123432",
@@ -2848,7 +2848,7 @@
             "status": false
         },
         "pagination": {
-            "total": 76,
+            "total": 75,
             "count": 20,
             "per_page": 20,
             "current_page": 1,
