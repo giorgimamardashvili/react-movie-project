@@ -2,7 +2,7 @@
   "name": "react-project",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://127.0.0.1:4000",
+  "proxy": "http://68.183.71.170:4000",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^11.2.7",
